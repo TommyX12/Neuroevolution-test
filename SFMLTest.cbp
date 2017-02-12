@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="SFMLTest" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/SFMLTest" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Option use_console_runner="0" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="include" />
+					<Add directory="include/engine/utils" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/SFMLTest" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Option use_console_runner="0" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="../../../_Libraries/SFML-2.3.2/include" />
+					<Add directory="include" />
+					<Add directory="../../../_Libraries/glew-1.13.0/include" />
+					<Add directory="../../../_Libraries/glm" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+					<Add library="../../../_Libraries/glew-1.13.0/lib/Release/Win32/glew32s.lib" />
+					<Add library="sfml-graphics" />
+					<Add library="sfml-system" />
+					<Add library="sfml-window" />
+					<Add library="opengl32" />
+					<Add directory="../../../_Libraries/SFML-2.3.2/lib" />
+					<Add directory="../../../_Libraries/glew-1.13.0/lib" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-std=c++11" />
+		</Compiler>
+		<Unit filename="include/Environment.h" />
+		<Unit filename="include/Game.h" />
+		<Unit filename="include/engine/AI/FloatGene.h" />
+		<Unit filename="include/engine/AI/NeuralNetwork.h" />
+		<Unit filename="include/engine/AI/Neuron.h" />
+		<Unit filename="include/engine/NebulaGame.h" />
+		<Unit filename="include/engine/Types.h" />
+		<Unit filename="include/engine/display/AtlasContainer.h" />
+		<Unit filename="include/engine/display/AtlasDisplay.h" />
+		<Unit filename="include/engine/display/AtlasElement.h" />
+		<Unit filename="include/engine/display/AtlasEntity.h" />
+		<Unit filename="include/engine/display/N3DGeometry.h" />
+		<Unit filename="include/engine/display/TextureAtlas.h" />
+		<Unit filename="include/engine/display/Transform.h" />
+		<Unit filename="include/engine/includes/AI.h" />
+		<Unit filename="include/engine/includes/all.h" />
+		<Unit filename="include/engine/includes/display.h" />
+		<Unit filename="include/engine/includes/renderer.h" />
+		<Unit filename="include/engine/includes/shaders.h" />
+		<Unit filename="include/engine/includes/utils.h" />
+		<Unit filename="include/engine/renderer/GLInterface.h" />
+		<Unit filename="include/engine/shaders/Common.h" />
+		<Unit filename="include/engine/shaders/PostProcessing.h" />
+		<Unit filename="include/engine/utils/Convert.h" />
+		<Unit filename="include/engine/utils/Input.h" />
+		<Unit filename="include/engine/utils/ObjectPool.h" />
+		<Unit filename="include/engine/utils/Rectangle.h" />
+		<Unit filename="include/engine/utils/Util.h" />
+		<Unit filename="include/engine/utils/Vec2D.h" />
+		<Unit filename="include/includes/gameGlobal.h" />
+		<Unit filename="include/includes/objects.h" />
+		<Unit filename="include/objects/Bullet.h" />
+		<Unit filename="include/objects/Food.h" />
+		<Unit filename="include/objects/Organism.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="src/Environment.cpp" />
+		<Unit filename="src/Game.cpp" />
+		<Unit filename="src/engine/AI/FloatGene.cpp" />
+		<Unit filename="src/engine/AI/NeuralNetwork.cpp" />
+		<Unit filename="src/engine/AI/Neuron.cpp" />
+		<Unit filename="src/engine/NebulaGame.cpp" />
+		<Unit filename="src/engine/Types.cpp" />
+		<Unit filename="src/engine/display/AtlasContainer.cpp" />
+		<Unit filename="src/engine/display/AtlasDisplay.cpp" />
+		<Unit filename="src/engine/display/AtlasElement.cpp" />
+		<Unit filename="src/engine/display/AtlasEntity.cpp" />
+		<Unit filename="src/engine/display/N3DGeometry.cpp" />
+		<Unit filename="src/engine/display/TextureAtlas.cpp" />
+		<Unit filename="src/engine/display/Transform.cpp" />
+		<Unit filename="src/engine/renderer/GLInterface.cpp" />
+		<Unit filename="src/engine/shaders/Common.cpp" />
+		<Unit filename="src/engine/shaders/PostProcessing.cpp" />
+		<Unit filename="src/engine/utils/Convert.cpp" />
+		<Unit filename="src/engine/utils/Input.cpp" />
+		<Unit filename="src/engine/utils/Rectangle.cpp" />
+		<Unit filename="src/engine/utils/Util.cpp" />
+		<Unit filename="src/engine/utils/Vec2D.cpp" />
+		<Unit filename="src/objects/Bullet.cpp" />
+		<Unit filename="src/objects/Food.cpp" />
+		<Unit filename="src/objects/Organism.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

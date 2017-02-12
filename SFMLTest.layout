@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Release" />
+	<File name="src\engine\display\AtlasElement.cpp" open="1" top="0" tabpos="15" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4686" topLine="139" />
+		</Cursor>
+	</File>
+	<File name="src\engine\shaders\Common.cpp" open="1" top="0" tabpos="36" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="738" topLine="5" />
+		</Cursor>
+	</File>
+	<File name="src\engine\Types.cpp" open="1" top="0" tabpos="32" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="34" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\engine\utils\Convert.cpp" open="1" top="0" tabpos="35" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="295" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include\engine\utils\Vec2D.h" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="756" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\engine\display\TextureAtlas.cpp" open="0" top="0" tabpos="20" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="216" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\engine\renderer\GLInterface.cpp" open="1" top="0" tabpos="24" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="6664" topLine="190" />
+		</Cursor>
+	</File>
+	<File name="src\engine\display\N3DGeometry.cpp" open="0" top="0" tabpos="19" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="38" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\engine\utils\Util.cpp" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2703" topLine="49" />
+		</Cursor>
+	</File>
+	<File name="include\objects\Bullet.h" open="1" top="0" tabpos="40" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="237" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\engine\utils\Rectangle.cpp" open="1" top="0" tabpos="42" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="529" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\engine\display\Transform.cpp" open="0" top="0" tabpos="21" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="36" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include\engine\utils\ObjectPool.h" open="1" top="0" tabpos="39" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2797" topLine="55" />
+		</Cursor>
+	</File>
+	<File name="src\objects\Organism.cpp" open="1" top="1" tabpos="27" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="186" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\objects\Bullet.cpp" open="1" top="0" tabpos="41" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="607" topLine="23" />
+		</Cursor>
+	</File>
+	<File name="include\engine\utils\Rectangle.h" open="1" top="0" tabpos="43" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="209" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include\Environment.h" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="2" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="599" topLine="1" />
+		</Cursor>
+	</File>
+	<File name="include\objects\Food.h" open="1" top="0" tabpos="22" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="158" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include\objects\Organism.h" open="1" top="0" tabpos="11" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="108" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="33" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="122" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include\engine\includes\AI.h" open="1" top="0" tabpos="44" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="157" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\Environment.cpp" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="252" topLine="3" />
+		</Cursor>
+	</File>
+	<File name="include\includes\gameGlobal.h" open="1" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include\Game.h" open="1" top="0" tabpos="12" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1097" topLine="15" />
+		</Cursor>
+	</File>
+	<File name="include\engine\utils\Util.h" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="591" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include\engine\Types.h" open="1" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="298" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\Game.cpp" open="1" top="0" tabpos="19" split="0" active="1" splitpos="0" zoom_1="3" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2493" topLine="60" />
+		</Cursor>
+	</File>
+	<File name="include\engine\display\AtlasElement.h" open="1" top="0" tabpos="20" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1485" topLine="22" />
+		</Cursor>
+	</File>
+	<File name="src\engine\AI\Neuron.cpp" open="1" top="0" tabpos="30" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="588" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\objects\Food.cpp" open="1" top="0" tabpos="23" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="278" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include\engine\includes\utils.h" open="1" top="0" tabpos="25" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="16" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\engine\display\AtlasContainer.cpp" open="1" top="0" tabpos="17" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="393" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include\engine\AI\FloatGene.h" open="1" top="0" tabpos="46" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="149" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\engine\display\AtlasDisplay.cpp" open="1" top="0" tabpos="14" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="6322" topLine="129" />
+		</Cursor>
+	</File>
+	<File name="include\engine\AI\NeuralNetwork.h" open="1" top="0" tabpos="28" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="586" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\engine\display\AtlasEntity.cpp" open="1" top="0" tabpos="16" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="888" topLine="18" />
+		</Cursor>
+	</File>
+	<File name="include\engine\display\AtlasEntity.h" open="1" top="0" tabpos="26" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="468" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\engine\AI\FloatGene.cpp" open="1" top="0" tabpos="45" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="342" topLine="6" />
+		</Cursor>
+	</File>
+	<File name="include\engine\display\AtlasDisplay.h" open="1" top="0" tabpos="13" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="718" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\engine\AI\NeuralNetwork.cpp" open="1" top="0" tabpos="29" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1178" topLine="3" />
+		</Cursor>
+	</File>
+	<File name="src\engine\utils\Input.cpp" open="1" top="0" tabpos="37" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="109" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include\engine\AI\Neuron.h" open="1" top="0" tabpos="31" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="300" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\engine\NebulaGame.cpp" open="1" top="0" tabpos="21" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4152" topLine="90" />
+		</Cursor>
+	</File>
+	<File name="src\engine\utils\Vec2D.cpp" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2189" topLine="89" />
+		</Cursor>
+	</File>
+	<File name="include\engine\NebulaGame.h" open="1" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1729" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include\includes\objects.h" open="1" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="212" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include\engine\display\AtlasContainer.h" open="1" top="0" tabpos="18" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="203" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include\engine\utils\Convert.h" open="1" top="0" tabpos="34" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="337" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\engine\shaders\PostProcessing.cpp" open="1" top="0" tabpos="38" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1350" topLine="28" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>

@@ -1,0 +1,4027 @@
+# depslib dependency file v1.0
+1464400503 source:c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\main.cpp
+	"includes/gameGlobal.h"
+
+1429780453 c:\documents\_create\_wip\2016 ai\libraries\sfml-2.3.2\include\sfml\graphics.hpp
+	<SFML/Window.hpp>
+	<SFML/Graphics/BlendMode.hpp>
+	<SFML/Graphics/CircleShape.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Graphics/ConvexShape.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Font.hpp>
+	<SFML/Graphics/Glyph.hpp>
+	<SFML/Graphics/Image.hpp>
+	<SFML/Graphics/PrimitiveType.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/RectangleShape.hpp>
+	<SFML/Graphics/RenderStates.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+	<SFML/Graphics/RenderTexture.hpp>
+	<SFML/Graphics/RenderWindow.hpp>
+	<SFML/Graphics/Shader.hpp>
+	<SFML/Graphics/Shape.hpp>
+	<SFML/Graphics/Sprite.hpp>
+	<SFML/Graphics/Text.hpp>
+	<SFML/Graphics/Texture.hpp>
+	<SFML/Graphics/Transform.hpp>
+	<SFML/Graphics/Transformable.hpp>
+	<SFML/Graphics/Vertex.hpp>
+	<SFML/Graphics/VertexArray.hpp>
+	<SFML/Graphics/View.hpp>
+
+1429780453 c:\documents\_create\_wip\2016 ai\libraries\sfml-2.3.2\include\sfml\window.hpp
+	<SFML/System.hpp>
+	<SFML/Window/Context.hpp>
+	<SFML/Window/ContextSettings.hpp>
+	<SFML/Window/Event.hpp>
+	<SFML/Window/Joystick.hpp>
+	<SFML/Window/Keyboard.hpp>
+	<SFML/Window/Mouse.hpp>
+	<SFML/Window/Sensor.hpp>
+	<SFML/Window/Touch.hpp>
+	<SFML/Window/VideoMode.hpp>
+	<SFML/Window/Window.hpp>
+	<SFML/Window/WindowHandle.hpp>
+	<SFML/Window/WindowStyle.hpp>
+
+1429780453 c:\documents\_create\_wip\2016 ai\libraries\sfml-2.3.2\include\sfml\system.hpp
+	<SFML/Config.hpp>
+	<SFML/System/Clock.hpp>
+	<SFML/System/Err.hpp>
+	<SFML/System/FileInputStream.hpp>
+	<SFML/System/InputStream.hpp>
+	<SFML/System/Lock.hpp>
+	<SFML/System/MemoryInputStream.hpp>
+	<SFML/System/Mutex.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/System/Sleep.hpp>
+	<SFML/System/String.hpp>
+	<SFML/System/Thread.hpp>
+	<SFML/System/ThreadLocal.hpp>
+	<SFML/System/ThreadLocalPtr.hpp>
+	<SFML/System/Time.hpp>
+	<SFML/System/Utf.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/Vector3.hpp>
+
+1441976890 c:\documents\_create\_wip\2016 ai\libraries\sfml-2.3.2\include\sfml\config.hpp
+	"TargetConditionals.h"
+
+1429780453 c:\documents\_create\_wip\2016 ai\libraries\sfml-2.3.2\include\sfml\system\clock.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/Time.hpp>
+
+1429780453 c:\documents\_create\_wip\2016 ai\libraries\sfml-2.3.2\include\sfml\system\export.hpp
+	<SFML/Config.hpp>
+
+1429780453 c:\documents\_create\_wip\2016 ai\libraries\sfml-2.3.2\include\sfml\system\time.hpp
+	<SFML/System/Export.hpp>
+
+1429780453 c:\documents\_create\_wip\2016 ai\libraries\sfml-2.3.2\include\sfml\system\err.hpp
+	<SFML/System/Export.hpp>
+	<ostream>
+
+1436034025 c:\documents\_create\_wip\2016 ai\libraries\sfml-2.3.2\include\sfml\system\fileinputstream.hpp
+	<SFML/Config.hpp>
+	<SFML/System/Export.hpp>
+	<SFML/System/InputStream.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<cstdio>
+	<string>
+
+1429780453 c:\documents\_create\_wip\2016 ai\libraries\sfml-2.3.2\include\sfml\system\inputstream.hpp
+	<SFML/Config.hpp>
+	<SFML/System/Export.hpp>
+
+1429780453 c:\documents\_create\_wip\2016 ai\libraries\sfml-2.3.2\include\sfml\system\noncopyable.hpp
+	<SFML/System/Export.hpp>
+
+1429780453 c:\documents\_create\_wip\2016 ai\libraries\sfml-2.3.2\include\sfml\system\lock.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1429780453 c:\documents\_create\_wip\2016 ai\libraries\sfml-2.3.2\include\sfml\system\memoryinputstream.hpp
+	<SFML/Config.hpp>
+	<SFML/System/InputStream.hpp>
+	<SFML/System/Export.hpp>
+	<cstdlib>
+
+1429780453 c:\documents\_create\_wip\2016 ai\libraries\sfml-2.3.2\include\sfml\system\mutex.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1429780453 c:\documents\_create\_wip\2016 ai\libraries\sfml-2.3.2\include\sfml\system\sleep.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/Time.hpp>
+
+1429780453 c:\documents\_create\_wip\2016 ai\libraries\sfml-2.3.2\include\sfml\system\string.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/Utf.hpp>
+	<locale>
+	<string>
+	<SFML/System/String.inl>
+
+1429780453 c:\documents\_create\_wip\2016 ai\libraries\sfml-2.3.2\include\sfml\system\utf.hpp
+	<SFML/Config.hpp>
+	<algorithm>
+	<locale>
+	<string>
+	<cstdlib>
+	<SFML/System/Utf.inl>
+
+1429780453 c:\documents\_create\_wip\2016 ai\libraries\sfml-2.3.2\include\sfml\system\utf.inl
+
+1429780453 c:\documents\_create\_wip\2016 ai\libraries\sfml-2.3.2\include\sfml\system\string.inl
+
+1429780453 c:\documents\_create\_wip\2016 ai\libraries\sfml-2.3.2\include\sfml\system\thread.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<cstdlib>
+	<SFML/System/Thread.inl>
+
+1429780453 c:\documents\_create\_wip\2016 ai\libraries\sfml-2.3.2\include\sfml\system\thread.inl
+
+1429780453 c:\documents\_create\_wip\2016 ai\libraries\sfml-2.3.2\include\sfml\system\threadlocal.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<cstdlib>
+
+1429780453 c:\documents\_create\_wip\2016 ai\libraries\sfml-2.3.2\include\sfml\system\threadlocalptr.hpp
+	<SFML/System/ThreadLocal.hpp>
+	<SFML/System/ThreadLocalPtr.inl>
+
+1429780453 c:\documents\_create\_wip\2016 ai\libraries\sfml-2.3.2\include\sfml\system\threadlocalptr.inl
+
+1429780453 c:\documents\_create\_wip\2016 ai\libraries\sfml-2.3.2\include\sfml\system\vector2.hpp
+	<SFML/System/Vector2.inl>
+
+1429780453 c:\documents\_create\_wip\2016 ai\libraries\sfml-2.3.2\include\sfml\system\vector2.inl
+
+1429780453 c:\documents\_create\_wip\2016 ai\libraries\sfml-2.3.2\include\sfml\system\vector3.hpp
+	<SFML/System/Vector3.inl>
+
+1429780453 c:\documents\_create\_wip\2016 ai\libraries\sfml-2.3.2\include\sfml\system\vector3.inl
+
+1429780453 c:\documents\_create\_wip\2016 ai\libraries\sfml-2.3.2\include\sfml\window\context.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/Window/GlResource.hpp>
+	<SFML/Window/ContextSettings.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1429780453 c:\documents\_create\_wip\2016 ai\libraries\sfml-2.3.2\include\sfml\window\export.hpp
+	<SFML/Config.hpp>
+
+1429780453 c:\documents\_create\_wip\2016 ai\libraries\sfml-2.3.2\include\sfml\window\glresource.hpp
+	<SFML/Window/Export.hpp>
+
+1429780453 c:\documents\_create\_wip\2016 ai\libraries\sfml-2.3.2\include\sfml\window\contextsettings.hpp
+
+1429780453 c:\documents\_create\_wip\2016 ai\libraries\sfml-2.3.2\include\sfml\window\event.hpp
+	<SFML/Config.hpp>
+	<SFML/Window/Joystick.hpp>
+	<SFML/Window/Keyboard.hpp>
+	<SFML/Window/Mouse.hpp>
+	<SFML/Window/Sensor.hpp>
+
+1436034025 c:\documents\_create\_wip\2016 ai\libraries\sfml-2.3.2\include\sfml\window\joystick.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/String.hpp>
+
+1429780453 c:\documents\_create\_wip\2016 ai\libraries\sfml-2.3.2\include\sfml\window\keyboard.hpp
+	<SFML/Window/Export.hpp>
+
+1429780453 c:\documents\_create\_wip\2016 ai\libraries\sfml-2.3.2\include\sfml\window\mouse.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/Vector2.hpp>
+
+1430987944 c:\documents\_create\_wip\2016 ai\libraries\sfml-2.3.2\include\sfml\window\sensor.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/Vector3.hpp>
+	<SFML/System/Time.hpp>
+
+1429780453 c:\documents\_create\_wip\2016 ai\libraries\sfml-2.3.2\include\sfml\window\touch.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/Vector2.hpp>
+
+1429780453 c:\documents\_create\_wip\2016 ai\libraries\sfml-2.3.2\include\sfml\window\videomode.hpp
+	<SFML/Window/Export.hpp>
+	<vector>
+
+1429780453 c:\documents\_create\_wip\2016 ai\libraries\sfml-2.3.2\include\sfml\window\window.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/Window/ContextSettings.hpp>
+	<SFML/Window/VideoMode.hpp>
+	<SFML/Window/WindowHandle.hpp>
+	<SFML/Window/WindowStyle.hpp>
+	<SFML/Window/GlResource.hpp>
+	<SFML/System/Clock.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/System/String.hpp>
+
+1429780453 c:\documents\_create\_wip\2016 ai\libraries\sfml-2.3.2\include\sfml\window\windowhandle.hpp
+	<SFML/Config.hpp>
+
+1429780453 c:\documents\_create\_wip\2016 ai\libraries\sfml-2.3.2\include\sfml\window\windowstyle.hpp
+
+1429780453 c:\documents\_create\_wip\2016 ai\libraries\sfml-2.3.2\include\sfml\graphics\blendmode.hpp
+	<SFML/Graphics/Export.hpp>
+
+1429780453 c:\documents\_create\_wip\2016 ai\libraries\sfml-2.3.2\include\sfml\graphics\export.hpp
+	<SFML/Config.hpp>
+
+1429780453 c:\documents\_create\_wip\2016 ai\libraries\sfml-2.3.2\include\sfml\graphics\circleshape.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Shape.hpp>
+
+1430987944 c:\documents\_create\_wip\2016 ai\libraries\sfml-2.3.2\include\sfml\graphics\shape.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Transformable.hpp>
+	<SFML/Graphics/VertexArray.hpp>
+	<SFML/System/Vector2.hpp>
+
+1429780453 c:\documents\_create\_wip\2016 ai\libraries\sfml-2.3.2\include\sfml\graphics\drawable.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/RenderStates.hpp>
+
+1436034025 c:\documents\_create\_wip\2016 ai\libraries\sfml-2.3.2\include\sfml\graphics\renderstates.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/BlendMode.hpp>
+	<SFML/Graphics/Transform.hpp>
+
+1429780453 c:\documents\_create\_wip\2016 ai\libraries\sfml-2.3.2\include\sfml\graphics\transform.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/System/Vector2.hpp>
+
+1429780453 c:\documents\_create\_wip\2016 ai\libraries\sfml-2.3.2\include\sfml\graphics\rect.hpp
+	<SFML/System/Vector2.hpp>
+	<algorithm>
+	<SFML/Graphics/Rect.inl>
+
+1429780453 c:\documents\_create\_wip\2016 ai\libraries\sfml-2.3.2\include\sfml\graphics\rect.inl
+
+1429780453 c:\documents\_create\_wip\2016 ai\libraries\sfml-2.3.2\include\sfml\graphics\transformable.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Transform.hpp>
+
+1430987944 c:\documents\_create\_wip\2016 ai\libraries\sfml-2.3.2\include\sfml\graphics\vertexarray.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Vertex.hpp>
+	<SFML/Graphics/PrimitiveType.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<vector>
+
+1429780453 c:\documents\_create\_wip\2016 ai\libraries\sfml-2.3.2\include\sfml\graphics\vertex.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/System/Vector2.hpp>
+
+1430987944 c:\documents\_create\_wip\2016 ai\libraries\sfml-2.3.2\include\sfml\graphics\color.hpp
+	<SFML/Graphics/Export.hpp>
+
+1429780453 c:\documents\_create\_wip\2016 ai\libraries\sfml-2.3.2\include\sfml\graphics\primitivetype.hpp
+
+1429780453 c:\documents\_create\_wip\2016 ai\libraries\sfml-2.3.2\include\sfml\graphics\convexshape.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Shape.hpp>
+	<vector>
+
+1441976890 c:\documents\_create\_wip\2016 ai\libraries\sfml-2.3.2\include\sfml\graphics\font.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Glyph.hpp>
+	<SFML/Graphics/Texture.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/String.hpp>
+	<map>
+	<string>
+	<vector>
+
+1429780453 c:\documents\_create\_wip\2016 ai\libraries\sfml-2.3.2\include\sfml\graphics\glyph.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Rect.hpp>
+
+1441976890 c:\documents\_create\_wip\2016 ai\libraries\sfml-2.3.2\include\sfml\graphics\texture.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Image.hpp>
+	<SFML/Window/GlResource.hpp>
+
+1430987944 c:\documents\_create\_wip\2016 ai\libraries\sfml-2.3.2\include\sfml\graphics\image.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<string>
+	<vector>
+
+1429780453 c:\documents\_create\_wip\2016 ai\libraries\sfml-2.3.2\include\sfml\graphics\rectangleshape.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Shape.hpp>
+
+1429780453 c:\documents\_create\_wip\2016 ai\libraries\sfml-2.3.2\include\sfml\graphics\rendertarget.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/View.hpp>
+	<SFML/Graphics/Transform.hpp>
+	<SFML/Graphics/BlendMode.hpp>
+	<SFML/Graphics/RenderStates.hpp>
+	<SFML/Graphics/PrimitiveType.hpp>
+	<SFML/Graphics/Vertex.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1429780453 c:\documents\_create\_wip\2016 ai\libraries\sfml-2.3.2\include\sfml\graphics\view.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/Transform.hpp>
+	<SFML/System/Vector2.hpp>
+
+1429780453 c:\documents\_create\_wip\2016 ai\libraries\sfml-2.3.2\include\sfml\graphics\rendertexture.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Texture.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+
+1429780453 c:\documents\_create\_wip\2016 ai\libraries\sfml-2.3.2\include\sfml\graphics\renderwindow.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+	<SFML/Graphics/Image.hpp>
+	<SFML/Window/Window.hpp>
+	<string>
+
+1436034025 c:\documents\_create\_wip\2016 ai\libraries\sfml-2.3.2\include\sfml\graphics\shader.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Transform.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Window/GlResource.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/Vector3.hpp>
+	<map>
+	<string>
+
+1430987944 c:\documents\_create\_wip\2016 ai\libraries\sfml-2.3.2\include\sfml\graphics\sprite.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Transformable.hpp>
+	<SFML/Graphics/Vertex.hpp>
+	<SFML/Graphics/Rect.hpp>
+
+1430987944 c:\documents\_create\_wip\2016 ai\libraries\sfml-2.3.2\include\sfml\graphics\text.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Transformable.hpp>
+	<SFML/Graphics/Font.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/VertexArray.hpp>
+	<SFML/System/String.hpp>
+	<string>
+	<vector>
+
+1465929947 source:c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\src\game.cpp
+	"includes/gameGlobal.h"
+
+1465927458 c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\include\game.h
+
+1465935988 c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\include\engine\nebulagame.h
+
+1465936004 source:c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\src\engine\nebulagame.cpp
+	"engine/includes/all.h"
+
+1465920387 source:c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\src\engine\utils\util.cpp
+	"engine/includes/utils.h"
+
+1465920366 c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\include\engine\utils\util.h
+
+1465855175 c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\include\engine\utils\vec2d.h
+
+1465855212 source:c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\src\engine\utils\vec2d.cpp
+	"engine/includes/utils.h"
+
+1464880360 c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\include\engine\types.h
+
+1464314421 source:c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\src\engine\types.cpp
+	"engine/includes/utils.h"
+
+1429780453 c:\documents\_create\_wip\2016 ai\libraries\sfml-2.3.2\include\sfml\opengl.hpp
+	<SFML/Config.hpp>
+	<windows.h>
+	<GL/gl.h>
+	<GLES/gl.h>
+	<GLES/glext.h>
+	<GL/gl.h>
+	<OpenGL/gl.h>
+	<OpenGLES/ES1/gl.h>
+	<OpenGLES/ES1/glext.h>
+	<GLES/gl.h>
+	<GLES/glext.h>
+
+1461600317 c:\documents\_create\_wip\_libraries\sfml-2.3.2\include\sfml\graphics.hpp
+	<SFML/Window.hpp>
+	<SFML/Graphics/BlendMode.hpp>
+	<SFML/Graphics/CircleShape.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Graphics/ConvexShape.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Font.hpp>
+	<SFML/Graphics/Glyph.hpp>
+	<SFML/Graphics/Image.hpp>
+	<SFML/Graphics/PrimitiveType.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/RectangleShape.hpp>
+	<SFML/Graphics/RenderStates.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+	<SFML/Graphics/RenderTexture.hpp>
+	<SFML/Graphics/RenderWindow.hpp>
+	<SFML/Graphics/Shader.hpp>
+	<SFML/Graphics/Shape.hpp>
+	<SFML/Graphics/Sprite.hpp>
+	<SFML/Graphics/Text.hpp>
+	<SFML/Graphics/Texture.hpp>
+	<SFML/Graphics/Transform.hpp>
+	<SFML/Graphics/Transformable.hpp>
+	<SFML/Graphics/Vertex.hpp>
+	<SFML/Graphics/VertexArray.hpp>
+	<SFML/Graphics/View.hpp>
+
+1461600318 c:\documents\_create\_wip\_libraries\sfml-2.3.2\include\sfml\window.hpp
+	<SFML/System.hpp>
+	<SFML/Window/Context.hpp>
+	<SFML/Window/ContextSettings.hpp>
+	<SFML/Window/Event.hpp>
+	<SFML/Window/Joystick.hpp>
+	<SFML/Window/Keyboard.hpp>
+	<SFML/Window/Mouse.hpp>
+	<SFML/Window/Sensor.hpp>
+	<SFML/Window/Touch.hpp>
+	<SFML/Window/VideoMode.hpp>
+	<SFML/Window/Window.hpp>
+	<SFML/Window/WindowHandle.hpp>
+	<SFML/Window/WindowStyle.hpp>
+
+1461600318 c:\documents\_create\_wip\_libraries\sfml-2.3.2\include\sfml\system.hpp
+	<SFML/Config.hpp>
+	<SFML/System/Clock.hpp>
+	<SFML/System/Err.hpp>
+	<SFML/System/FileInputStream.hpp>
+	<SFML/System/InputStream.hpp>
+	<SFML/System/Lock.hpp>
+	<SFML/System/MemoryInputStream.hpp>
+	<SFML/System/Mutex.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/System/Sleep.hpp>
+	<SFML/System/String.hpp>
+	<SFML/System/Thread.hpp>
+	<SFML/System/ThreadLocal.hpp>
+	<SFML/System/ThreadLocalPtr.hpp>
+	<SFML/System/Time.hpp>
+	<SFML/System/Utf.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/Vector3.hpp>
+
+1461600317 c:\documents\_create\_wip\_libraries\sfml-2.3.2\include\sfml\config.hpp
+	"TargetConditionals.h"
+
+1461600338 c:\documents\_create\_wip\_libraries\sfml-2.3.2\include\sfml\system\clock.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/Time.hpp>
+
+1461600338 c:\documents\_create\_wip\_libraries\sfml-2.3.2\include\sfml\system\export.hpp
+	<SFML/Config.hpp>
+
+1461600341 c:\documents\_create\_wip\_libraries\sfml-2.3.2\include\sfml\system\time.hpp
+	<SFML/System/Export.hpp>
+
+1461600338 c:\documents\_create\_wip\_libraries\sfml-2.3.2\include\sfml\system\err.hpp
+	<SFML/System/Export.hpp>
+	<ostream>
+
+1461600338 c:\documents\_create\_wip\_libraries\sfml-2.3.2\include\sfml\system\fileinputstream.hpp
+	<SFML/Config.hpp>
+	<SFML/System/Export.hpp>
+	<SFML/System/InputStream.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<cstdio>
+	<string>
+
+1461600338 c:\documents\_create\_wip\_libraries\sfml-2.3.2\include\sfml\system\inputstream.hpp
+	<SFML/Config.hpp>
+	<SFML/System/Export.hpp>
+
+1461600339 c:\documents\_create\_wip\_libraries\sfml-2.3.2\include\sfml\system\noncopyable.hpp
+	<SFML/System/Export.hpp>
+
+1461600338 c:\documents\_create\_wip\_libraries\sfml-2.3.2\include\sfml\system\lock.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1461600339 c:\documents\_create\_wip\_libraries\sfml-2.3.2\include\sfml\system\memoryinputstream.hpp
+	<SFML/Config.hpp>
+	<SFML/System/InputStream.hpp>
+	<SFML/System/Export.hpp>
+	<cstdlib>
+
+1461600339 c:\documents\_create\_wip\_libraries\sfml-2.3.2\include\sfml\system\mutex.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1461600340 c:\documents\_create\_wip\_libraries\sfml-2.3.2\include\sfml\system\sleep.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/Time.hpp>
+
+1461600340 c:\documents\_create\_wip\_libraries\sfml-2.3.2\include\sfml\system\string.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/Utf.hpp>
+	<locale>
+	<string>
+	<SFML/System/String.inl>
+
+1461600341 c:\documents\_create\_wip\_libraries\sfml-2.3.2\include\sfml\system\utf.hpp
+	<SFML/Config.hpp>
+	<algorithm>
+	<locale>
+	<string>
+	<cstdlib>
+	<SFML/System/Utf.inl>
+
+1461600341 c:\documents\_create\_wip\_libraries\sfml-2.3.2\include\sfml\system\utf.inl
+
+1461600340 c:\documents\_create\_wip\_libraries\sfml-2.3.2\include\sfml\system\string.inl
+
+1461600340 c:\documents\_create\_wip\_libraries\sfml-2.3.2\include\sfml\system\thread.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<cstdlib>
+	<SFML/System/Thread.inl>
+
+1461600340 c:\documents\_create\_wip\_libraries\sfml-2.3.2\include\sfml\system\thread.inl
+
+1461600340 c:\documents\_create\_wip\_libraries\sfml-2.3.2\include\sfml\system\threadlocal.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<cstdlib>
+
+1461600340 c:\documents\_create\_wip\_libraries\sfml-2.3.2\include\sfml\system\threadlocalptr.hpp
+	<SFML/System/ThreadLocal.hpp>
+	<SFML/System/ThreadLocalPtr.inl>
+
+1461600340 c:\documents\_create\_wip\_libraries\sfml-2.3.2\include\sfml\system\threadlocalptr.inl
+
+1461600341 c:\documents\_create\_wip\_libraries\sfml-2.3.2\include\sfml\system\vector2.hpp
+	<SFML/System/Vector2.inl>
+
+1461600342 c:\documents\_create\_wip\_libraries\sfml-2.3.2\include\sfml\system\vector2.inl
+
+1461600342 c:\documents\_create\_wip\_libraries\sfml-2.3.2\include\sfml\system\vector3.hpp
+	<SFML/System/Vector3.inl>
+
+1461600342 c:\documents\_create\_wip\_libraries\sfml-2.3.2\include\sfml\system\vector3.inl
+
+1461600342 c:\documents\_create\_wip\_libraries\sfml-2.3.2\include\sfml\window\context.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/Window/GlResource.hpp>
+	<SFML/Window/ContextSettings.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1461600342 c:\documents\_create\_wip\_libraries\sfml-2.3.2\include\sfml\window\export.hpp
+	<SFML/Config.hpp>
+
+1461600342 c:\documents\_create\_wip\_libraries\sfml-2.3.2\include\sfml\window\glresource.hpp
+	<SFML/Window/Export.hpp>
+
+1461600342 c:\documents\_create\_wip\_libraries\sfml-2.3.2\include\sfml\window\contextsettings.hpp
+
+1461600342 c:\documents\_create\_wip\_libraries\sfml-2.3.2\include\sfml\window\event.hpp
+	<SFML/Config.hpp>
+	<SFML/Window/Joystick.hpp>
+	<SFML/Window/Keyboard.hpp>
+	<SFML/Window/Mouse.hpp>
+	<SFML/Window/Sensor.hpp>
+
+1461600342 c:\documents\_create\_wip\_libraries\sfml-2.3.2\include\sfml\window\joystick.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/String.hpp>
+
+1461600342 c:\documents\_create\_wip\_libraries\sfml-2.3.2\include\sfml\window\keyboard.hpp
+	<SFML/Window/Export.hpp>
+
+1461600343 c:\documents\_create\_wip\_libraries\sfml-2.3.2\include\sfml\window\mouse.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/Vector2.hpp>
+
+1461600343 c:\documents\_create\_wip\_libraries\sfml-2.3.2\include\sfml\window\sensor.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/Vector3.hpp>
+	<SFML/System/Time.hpp>
+
+1461600344 c:\documents\_create\_wip\_libraries\sfml-2.3.2\include\sfml\window\touch.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/Vector2.hpp>
+
+1461600344 c:\documents\_create\_wip\_libraries\sfml-2.3.2\include\sfml\window\videomode.hpp
+	<SFML/Window/Export.hpp>
+	<vector>
+
+1461600345 c:\documents\_create\_wip\_libraries\sfml-2.3.2\include\sfml\window\window.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/Window/ContextSettings.hpp>
+	<SFML/Window/VideoMode.hpp>
+	<SFML/Window/WindowHandle.hpp>
+	<SFML/Window/WindowStyle.hpp>
+	<SFML/Window/GlResource.hpp>
+	<SFML/System/Clock.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/System/String.hpp>
+
+1461600345 c:\documents\_create\_wip\_libraries\sfml-2.3.2\include\sfml\window\windowhandle.hpp
+	<SFML/Config.hpp>
+
+1461600345 c:\documents\_create\_wip\_libraries\sfml-2.3.2\include\sfml\window\windowstyle.hpp
+
+1461600323 c:\documents\_create\_wip\_libraries\sfml-2.3.2\include\sfml\graphics\blendmode.hpp
+	<SFML/Graphics/Export.hpp>
+
+1461600324 c:\documents\_create\_wip\_libraries\sfml-2.3.2\include\sfml\graphics\export.hpp
+	<SFML/Config.hpp>
+
+1461600324 c:\documents\_create\_wip\_libraries\sfml-2.3.2\include\sfml\graphics\circleshape.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Shape.hpp>
+
+1461600332 c:\documents\_create\_wip\_libraries\sfml-2.3.2\include\sfml\graphics\shape.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Transformable.hpp>
+	<SFML/Graphics/VertexArray.hpp>
+	<SFML/System/Vector2.hpp>
+
+1461600324 c:\documents\_create\_wip\_libraries\sfml-2.3.2\include\sfml\graphics\drawable.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/RenderStates.hpp>
+
+1461600326 c:\documents\_create\_wip\_libraries\sfml-2.3.2\include\sfml\graphics\renderstates.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/BlendMode.hpp>
+	<SFML/Graphics/Transform.hpp>
+
+1461600334 c:\documents\_create\_wip\_libraries\sfml-2.3.2\include\sfml\graphics\transform.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/System/Vector2.hpp>
+
+1461600325 c:\documents\_create\_wip\_libraries\sfml-2.3.2\include\sfml\graphics\rect.hpp
+	<SFML/System/Vector2.hpp>
+	<algorithm>
+	<SFML/Graphics/Rect.inl>
+
+1461600326 c:\documents\_create\_wip\_libraries\sfml-2.3.2\include\sfml\graphics\rect.inl
+
+1461600334 c:\documents\_create\_wip\_libraries\sfml-2.3.2\include\sfml\graphics\transformable.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Transform.hpp>
+
+1461600335 c:\documents\_create\_wip\_libraries\sfml-2.3.2\include\sfml\graphics\vertexarray.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Vertex.hpp>
+	<SFML/Graphics/PrimitiveType.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<vector>
+
+1461600334 c:\documents\_create\_wip\_libraries\sfml-2.3.2\include\sfml\graphics\vertex.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/System/Vector2.hpp>
+
+1461600324 c:\documents\_create\_wip\_libraries\sfml-2.3.2\include\sfml\graphics\color.hpp
+	<SFML/Graphics/Export.hpp>
+
+1461600325 c:\documents\_create\_wip\_libraries\sfml-2.3.2\include\sfml\graphics\primitivetype.hpp
+
+1461600324 c:\documents\_create\_wip\_libraries\sfml-2.3.2\include\sfml\graphics\convexshape.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Shape.hpp>
+	<vector>
+
+1461600324 c:\documents\_create\_wip\_libraries\sfml-2.3.2\include\sfml\graphics\font.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Glyph.hpp>
+	<SFML/Graphics/Texture.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/String.hpp>
+	<map>
+	<string>
+	<vector>
+
+1461600324 c:\documents\_create\_wip\_libraries\sfml-2.3.2\include\sfml\graphics\glyph.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Rect.hpp>
+
+1461600333 c:\documents\_create\_wip\_libraries\sfml-2.3.2\include\sfml\graphics\texture.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Image.hpp>
+	<SFML/Window/GlResource.hpp>
+
+1461600325 c:\documents\_create\_wip\_libraries\sfml-2.3.2\include\sfml\graphics\image.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<string>
+	<vector>
+
+1461600326 c:\documents\_create\_wip\_libraries\sfml-2.3.2\include\sfml\graphics\rectangleshape.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Shape.hpp>
+
+1461600326 c:\documents\_create\_wip\_libraries\sfml-2.3.2\include\sfml\graphics\rendertarget.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/View.hpp>
+	<SFML/Graphics/Transform.hpp>
+	<SFML/Graphics/BlendMode.hpp>
+	<SFML/Graphics/RenderStates.hpp>
+	<SFML/Graphics/PrimitiveType.hpp>
+	<SFML/Graphics/Vertex.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1461600335 c:\documents\_create\_wip\_libraries\sfml-2.3.2\include\sfml\graphics\view.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/Transform.hpp>
+	<SFML/System/Vector2.hpp>
+
+1461600327 c:\documents\_create\_wip\_libraries\sfml-2.3.2\include\sfml\graphics\rendertexture.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Texture.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+
+1461600329 c:\documents\_create\_wip\_libraries\sfml-2.3.2\include\sfml\graphics\renderwindow.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+	<SFML/Graphics/Image.hpp>
+	<SFML/Window/Window.hpp>
+	<string>
+
+1461600331 c:\documents\_create\_wip\_libraries\sfml-2.3.2\include\sfml\graphics\shader.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Transform.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Window/GlResource.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/Vector3.hpp>
+	<map>
+	<string>
+
+1461600332 c:\documents\_create\_wip\_libraries\sfml-2.3.2\include\sfml\graphics\sprite.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Transformable.hpp>
+	<SFML/Graphics/Vertex.hpp>
+	<SFML/Graphics/Rect.hpp>
+
+1461600332 c:\documents\_create\_wip\_libraries\sfml-2.3.2\include\sfml\graphics\text.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Transformable.hpp>
+	<SFML/Graphics/Font.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/VertexArray.hpp>
+	<SFML/System/String.hpp>
+	<string>
+	<vector>
+
+1461600318 c:\documents\_create\_wip\_libraries\sfml-2.3.2\include\sfml\opengl.hpp
+	<SFML/Config.hpp>
+	<windows.h>
+	<GL/gl.h>
+	<GLES/gl.h>
+	<GLES/glext.h>
+	<GL/gl.h>
+	<OpenGL/gl.h>
+	<OpenGLES/ES1/gl.h>
+	<OpenGLES/ES1/glext.h>
+	<GLES/gl.h>
+	<GLES/glext.h>
+
+1466098312 source:e:\documents\new folder\_waitlist\sfml test\sfmltest\src\game.cpp
+	"includes/gameGlobal.h"
+
+1466088351 e:\documents\new folder\_waitlist\sfml test\sfmltest\include\game.h
+
+1466012569 e:\documents\new folder\_waitlist\sfml test\sfmltest\include\engine\nebulagame.h
+
+1464880360 e:\documents\new folder\_waitlist\sfml test\sfmltest\include\engine\types.h
+
+1465920366 e:\documents\new folder\_waitlist\sfml test\sfmltest\include\engine\utils\util.h
+
+1465855175 e:\documents\new folder\_waitlist\sfml test\sfmltest\include\engine\utils\vec2d.h
+
+1465936004 source:e:\documents\new folder\_waitlist\sfml test\sfmltest\src\engine\nebulagame.cpp
+	"engine/includes/all.h"
+
+1464314421 source:e:\documents\new folder\_waitlist\sfml test\sfmltest\src\engine\types.cpp
+	"engine/includes/utils.h"
+
+1465920387 source:e:\documents\new folder\_waitlist\sfml test\sfmltest\src\engine\utils\util.cpp
+	"engine/includes/utils.h"
+
+1465855212 source:e:\documents\new folder\_waitlist\sfml test\sfmltest\src\engine\utils\vec2d.cpp
+	"engine/includes/utils.h"
+
+1464400503 source:e:\documents\new folder\_waitlist\sfml test\sfmltest\main.cpp
+	"includes/gameGlobal.h"
+
+1461600317 e:\documents\new folder\_libraries\sfml-2.3.2\include\sfml\graphics.hpp
+	<SFML/Window.hpp>
+	<SFML/Graphics/BlendMode.hpp>
+	<SFML/Graphics/CircleShape.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Graphics/ConvexShape.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Font.hpp>
+	<SFML/Graphics/Glyph.hpp>
+	<SFML/Graphics/Image.hpp>
+	<SFML/Graphics/PrimitiveType.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/RectangleShape.hpp>
+	<SFML/Graphics/RenderStates.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+	<SFML/Graphics/RenderTexture.hpp>
+	<SFML/Graphics/RenderWindow.hpp>
+	<SFML/Graphics/Shader.hpp>
+	<SFML/Graphics/Shape.hpp>
+	<SFML/Graphics/Sprite.hpp>
+	<SFML/Graphics/Text.hpp>
+	<SFML/Graphics/Texture.hpp>
+	<SFML/Graphics/Transform.hpp>
+	<SFML/Graphics/Transformable.hpp>
+	<SFML/Graphics/Vertex.hpp>
+	<SFML/Graphics/VertexArray.hpp>
+	<SFML/Graphics/View.hpp>
+
+1461600318 e:\documents\new folder\_libraries\sfml-2.3.2\include\sfml\window.hpp
+	<SFML/System.hpp>
+	<SFML/Window/Context.hpp>
+	<SFML/Window/ContextSettings.hpp>
+	<SFML/Window/Event.hpp>
+	<SFML/Window/Joystick.hpp>
+	<SFML/Window/Keyboard.hpp>
+	<SFML/Window/Mouse.hpp>
+	<SFML/Window/Sensor.hpp>
+	<SFML/Window/Touch.hpp>
+	<SFML/Window/VideoMode.hpp>
+	<SFML/Window/Window.hpp>
+	<SFML/Window/WindowHandle.hpp>
+	<SFML/Window/WindowStyle.hpp>
+
+1461600318 e:\documents\new folder\_libraries\sfml-2.3.2\include\sfml\system.hpp
+	<SFML/Config.hpp>
+	<SFML/System/Clock.hpp>
+	<SFML/System/Err.hpp>
+	<SFML/System/FileInputStream.hpp>
+	<SFML/System/InputStream.hpp>
+	<SFML/System/Lock.hpp>
+	<SFML/System/MemoryInputStream.hpp>
+	<SFML/System/Mutex.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/System/Sleep.hpp>
+	<SFML/System/String.hpp>
+	<SFML/System/Thread.hpp>
+	<SFML/System/ThreadLocal.hpp>
+	<SFML/System/ThreadLocalPtr.hpp>
+	<SFML/System/Time.hpp>
+	<SFML/System/Utf.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/Vector3.hpp>
+
+1461600317 e:\documents\new folder\_libraries\sfml-2.3.2\include\sfml\config.hpp
+	"TargetConditionals.h"
+
+1461600338 e:\documents\new folder\_libraries\sfml-2.3.2\include\sfml\system\clock.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/Time.hpp>
+
+1461600338 e:\documents\new folder\_libraries\sfml-2.3.2\include\sfml\system\export.hpp
+	<SFML/Config.hpp>
+
+1461600341 e:\documents\new folder\_libraries\sfml-2.3.2\include\sfml\system\time.hpp
+	<SFML/System/Export.hpp>
+
+1461600338 e:\documents\new folder\_libraries\sfml-2.3.2\include\sfml\system\err.hpp
+	<SFML/System/Export.hpp>
+	<ostream>
+
+1461600338 e:\documents\new folder\_libraries\sfml-2.3.2\include\sfml\system\fileinputstream.hpp
+	<SFML/Config.hpp>
+	<SFML/System/Export.hpp>
+	<SFML/System/InputStream.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<cstdio>
+	<string>
+
+1461600338 e:\documents\new folder\_libraries\sfml-2.3.2\include\sfml\system\inputstream.hpp
+	<SFML/Config.hpp>
+	<SFML/System/Export.hpp>
+
+1461600339 e:\documents\new folder\_libraries\sfml-2.3.2\include\sfml\system\noncopyable.hpp
+	<SFML/System/Export.hpp>
+
+1461600338 e:\documents\new folder\_libraries\sfml-2.3.2\include\sfml\system\lock.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1461600339 e:\documents\new folder\_libraries\sfml-2.3.2\include\sfml\system\memoryinputstream.hpp
+	<SFML/Config.hpp>
+	<SFML/System/InputStream.hpp>
+	<SFML/System/Export.hpp>
+	<cstdlib>
+
+1461600339 e:\documents\new folder\_libraries\sfml-2.3.2\include\sfml\system\mutex.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1461600340 e:\documents\new folder\_libraries\sfml-2.3.2\include\sfml\system\sleep.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/Time.hpp>
+
+1461600340 e:\documents\new folder\_libraries\sfml-2.3.2\include\sfml\system\string.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/Utf.hpp>
+	<locale>
+	<string>
+	<SFML/System/String.inl>
+
+1461600341 e:\documents\new folder\_libraries\sfml-2.3.2\include\sfml\system\utf.hpp
+	<SFML/Config.hpp>
+	<algorithm>
+	<locale>
+	<string>
+	<cstdlib>
+	<SFML/System/Utf.inl>
+
+1461600341 e:\documents\new folder\_libraries\sfml-2.3.2\include\sfml\system\utf.inl
+
+1461600340 e:\documents\new folder\_libraries\sfml-2.3.2\include\sfml\system\string.inl
+
+1461600340 e:\documents\new folder\_libraries\sfml-2.3.2\include\sfml\system\thread.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<cstdlib>
+	<SFML/System/Thread.inl>
+
+1461600340 e:\documents\new folder\_libraries\sfml-2.3.2\include\sfml\system\thread.inl
+
+1461600340 e:\documents\new folder\_libraries\sfml-2.3.2\include\sfml\system\threadlocal.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<cstdlib>
+
+1461600340 e:\documents\new folder\_libraries\sfml-2.3.2\include\sfml\system\threadlocalptr.hpp
+	<SFML/System/ThreadLocal.hpp>
+	<SFML/System/ThreadLocalPtr.inl>
+
+1461600340 e:\documents\new folder\_libraries\sfml-2.3.2\include\sfml\system\threadlocalptr.inl
+
+1461600341 e:\documents\new folder\_libraries\sfml-2.3.2\include\sfml\system\vector2.hpp
+	<SFML/System/Vector2.inl>
+
+1461600342 e:\documents\new folder\_libraries\sfml-2.3.2\include\sfml\system\vector2.inl
+
+1461600342 e:\documents\new folder\_libraries\sfml-2.3.2\include\sfml\system\vector3.hpp
+	<SFML/System/Vector3.inl>
+
+1461600342 e:\documents\new folder\_libraries\sfml-2.3.2\include\sfml\system\vector3.inl
+
+1461600342 e:\documents\new folder\_libraries\sfml-2.3.2\include\sfml\window\context.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/Window/GlResource.hpp>
+	<SFML/Window/ContextSettings.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1461600342 e:\documents\new folder\_libraries\sfml-2.3.2\include\sfml\window\export.hpp
+	<SFML/Config.hpp>
+
+1461600342 e:\documents\new folder\_libraries\sfml-2.3.2\include\sfml\window\glresource.hpp
+	<SFML/Window/Export.hpp>
+
+1461600342 e:\documents\new folder\_libraries\sfml-2.3.2\include\sfml\window\contextsettings.hpp
+
+1461600342 e:\documents\new folder\_libraries\sfml-2.3.2\include\sfml\window\event.hpp
+	<SFML/Config.hpp>
+	<SFML/Window/Joystick.hpp>
+	<SFML/Window/Keyboard.hpp>
+	<SFML/Window/Mouse.hpp>
+	<SFML/Window/Sensor.hpp>
+
+1461600342 e:\documents\new folder\_libraries\sfml-2.3.2\include\sfml\window\joystick.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/String.hpp>
+
+1461600342 e:\documents\new folder\_libraries\sfml-2.3.2\include\sfml\window\keyboard.hpp
+	<SFML/Window/Export.hpp>
+
+1461600343 e:\documents\new folder\_libraries\sfml-2.3.2\include\sfml\window\mouse.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/Vector2.hpp>
+
+1461600343 e:\documents\new folder\_libraries\sfml-2.3.2\include\sfml\window\sensor.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/Vector3.hpp>
+	<SFML/System/Time.hpp>
+
+1461600344 e:\documents\new folder\_libraries\sfml-2.3.2\include\sfml\window\touch.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/Vector2.hpp>
+
+1461600344 e:\documents\new folder\_libraries\sfml-2.3.2\include\sfml\window\videomode.hpp
+	<SFML/Window/Export.hpp>
+	<vector>
+
+1461600345 e:\documents\new folder\_libraries\sfml-2.3.2\include\sfml\window\window.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/Window/ContextSettings.hpp>
+	<SFML/Window/VideoMode.hpp>
+	<SFML/Window/WindowHandle.hpp>
+	<SFML/Window/WindowStyle.hpp>
+	<SFML/Window/GlResource.hpp>
+	<SFML/System/Clock.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/System/String.hpp>
+
+1461600345 e:\documents\new folder\_libraries\sfml-2.3.2\include\sfml\window\windowhandle.hpp
+	<SFML/Config.hpp>
+
+1461600345 e:\documents\new folder\_libraries\sfml-2.3.2\include\sfml\window\windowstyle.hpp
+
+1461600323 e:\documents\new folder\_libraries\sfml-2.3.2\include\sfml\graphics\blendmode.hpp
+	<SFML/Graphics/Export.hpp>
+
+1461600324 e:\documents\new folder\_libraries\sfml-2.3.2\include\sfml\graphics\export.hpp
+	<SFML/Config.hpp>
+
+1461600324 e:\documents\new folder\_libraries\sfml-2.3.2\include\sfml\graphics\circleshape.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Shape.hpp>
+
+1461600332 e:\documents\new folder\_libraries\sfml-2.3.2\include\sfml\graphics\shape.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Transformable.hpp>
+	<SFML/Graphics/VertexArray.hpp>
+	<SFML/System/Vector2.hpp>
+
+1461600324 e:\documents\new folder\_libraries\sfml-2.3.2\include\sfml\graphics\drawable.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/RenderStates.hpp>
+
+1461600326 e:\documents\new folder\_libraries\sfml-2.3.2\include\sfml\graphics\renderstates.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/BlendMode.hpp>
+	<SFML/Graphics/Transform.hpp>
+
+1461600334 e:\documents\new folder\_libraries\sfml-2.3.2\include\sfml\graphics\transform.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/System/Vector2.hpp>
+
+1461600325 e:\documents\new folder\_libraries\sfml-2.3.2\include\sfml\graphics\rect.hpp
+	<SFML/System/Vector2.hpp>
+	<algorithm>
+	<SFML/Graphics/Rect.inl>
+
+1461600326 e:\documents\new folder\_libraries\sfml-2.3.2\include\sfml\graphics\rect.inl
+
+1461600334 e:\documents\new folder\_libraries\sfml-2.3.2\include\sfml\graphics\transformable.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Transform.hpp>
+
+1461600335 e:\documents\new folder\_libraries\sfml-2.3.2\include\sfml\graphics\vertexarray.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Vertex.hpp>
+	<SFML/Graphics/PrimitiveType.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<vector>
+
+1461600334 e:\documents\new folder\_libraries\sfml-2.3.2\include\sfml\graphics\vertex.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/System/Vector2.hpp>
+
+1461600324 e:\documents\new folder\_libraries\sfml-2.3.2\include\sfml\graphics\color.hpp
+	<SFML/Graphics/Export.hpp>
+
+1461600325 e:\documents\new folder\_libraries\sfml-2.3.2\include\sfml\graphics\primitivetype.hpp
+
+1461600324 e:\documents\new folder\_libraries\sfml-2.3.2\include\sfml\graphics\convexshape.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Shape.hpp>
+	<vector>
+
+1461600324 e:\documents\new folder\_libraries\sfml-2.3.2\include\sfml\graphics\font.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Glyph.hpp>
+	<SFML/Graphics/Texture.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/String.hpp>
+	<map>
+	<string>
+	<vector>
+
+1461600324 e:\documents\new folder\_libraries\sfml-2.3.2\include\sfml\graphics\glyph.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Rect.hpp>
+
+1461600333 e:\documents\new folder\_libraries\sfml-2.3.2\include\sfml\graphics\texture.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Image.hpp>
+	<SFML/Window/GlResource.hpp>
+
+1461600325 e:\documents\new folder\_libraries\sfml-2.3.2\include\sfml\graphics\image.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<string>
+	<vector>
+
+1461600326 e:\documents\new folder\_libraries\sfml-2.3.2\include\sfml\graphics\rectangleshape.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Shape.hpp>
+
+1461600326 e:\documents\new folder\_libraries\sfml-2.3.2\include\sfml\graphics\rendertarget.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/View.hpp>
+	<SFML/Graphics/Transform.hpp>
+	<SFML/Graphics/BlendMode.hpp>
+	<SFML/Graphics/RenderStates.hpp>
+	<SFML/Graphics/PrimitiveType.hpp>
+	<SFML/Graphics/Vertex.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1461600335 e:\documents\new folder\_libraries\sfml-2.3.2\include\sfml\graphics\view.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/Transform.hpp>
+	<SFML/System/Vector2.hpp>
+
+1461600327 e:\documents\new folder\_libraries\sfml-2.3.2\include\sfml\graphics\rendertexture.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Texture.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+
+1461600329 e:\documents\new folder\_libraries\sfml-2.3.2\include\sfml\graphics\renderwindow.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+	<SFML/Graphics/Image.hpp>
+	<SFML/Window/Window.hpp>
+	<string>
+
+1461600331 e:\documents\new folder\_libraries\sfml-2.3.2\include\sfml\graphics\shader.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Transform.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Window/GlResource.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/Vector3.hpp>
+	<map>
+	<string>
+
+1461600332 e:\documents\new folder\_libraries\sfml-2.3.2\include\sfml\graphics\sprite.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Transformable.hpp>
+	<SFML/Graphics/Vertex.hpp>
+	<SFML/Graphics/Rect.hpp>
+
+1461600332 e:\documents\new folder\_libraries\sfml-2.3.2\include\sfml\graphics\text.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Transformable.hpp>
+	<SFML/Graphics/Font.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/VertexArray.hpp>
+	<SFML/System/String.hpp>
+	<string>
+	<vector>
+
+1461600318 e:\documents\new folder\_libraries\sfml-2.3.2\include\sfml\opengl.hpp
+	<SFML/Config.hpp>
+	<windows.h>
+	<GL/gl.h>
+	<GLES/gl.h>
+	<GLES/glext.h>
+	<GL/gl.h>
+	<OpenGL/gl.h>
+	<OpenGLES/ES1/gl.h>
+	<OpenGLES/ES1/glext.h>
+	<GLES/gl.h>
+	<GLES/glext.h>
+
+1464881355 source:c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\src\engine\display\atlaselement.cpp
+	"engine/includes/display.h"
+
+1464881234 c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\include\engine\display\atlaselement.h
+
+1464314893 c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\include\engine\display\transform.h
+
+1464314153 source:c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\src\engine\display\transform.cpp
+	"engine/includes/display.h"
+
+1464901089 c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\include\engine\utils\convert.h
+
+1464901082 source:c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\src\engine\utils\convert.cpp
+	"engine/includes/utils.h"
+
+1464406959 c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\include\engine\display\atlascontainer.h
+
+1464406956 source:c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\src\engine\display\atlascontainer.cpp
+	"engine/includes/display.h"
+
+1461638703 c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\include\engine\display\atlaselementbase.h
+
+1464901089 e:\documents\new folder\_waitlist\sfml test\sfmltest\include\engine\utils\convert.h
+
+1464881234 e:\documents\new folder\_waitlist\sfml test\sfmltest\include\engine\display\atlaselement.h
+
+1464314893 e:\documents\new folder\_waitlist\sfml test\sfmltest\include\engine\display\transform.h
+
+1464406959 e:\documents\new folder\_waitlist\sfml test\sfmltest\include\engine\display\atlascontainer.h
+
+1464406956 source:e:\documents\new folder\_waitlist\sfml test\sfmltest\src\engine\display\atlascontainer.cpp
+	"engine/includes/display.h"
+
+1464881355 source:e:\documents\new folder\_waitlist\sfml test\sfmltest\src\engine\display\atlaselement.cpp
+	"engine/includes/display.h"
+
+1464314153 source:e:\documents\new folder\_waitlist\sfml test\sfmltest\src\engine\display\transform.cpp
+	"engine/includes/display.h"
+
+1464901082 source:e:\documents\new folder\_waitlist\sfml test\sfmltest\src\engine\utils\convert.cpp
+	"engine/includes/utils.h"
+
+1461684529 e:\documents\new folder\_libraries\glew-1.13.0\include\gl\glew.h
+	<stddef.h>
+	<inttypes.h>
+	<stdint.h>
+	<inttypes.h>
+	<Availability.h>
+	<OpenGL/glu.h>
+	<GL/glu.h>
+
+1461684529 c:\documents\_create\_wip\_libraries\glew-1.13.0\include\gl\glew.h
+	<stddef.h>
+	<inttypes.h>
+	<stdint.h>
+	<inttypes.h>
+	<Availability.h>
+	<OpenGL/glu.h>
+	<GL/glu.h>
+
+1464314789 c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\include\engine\shaders\common.h
+
+1464314270 source:c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\src\engine\shaders\common.cpp
+	"engine/includes/shaders.h"
+
+1464314789 e:\documents\new folder\_waitlist\sfml test\sfmltest\include\engine\shaders\common.h
+
+1464314270 source:e:\documents\new folder\_waitlist\sfml test\sfmltest\src\engine\shaders\common.cpp
+	"engine/includes/shaders.h"
+
+1464314793 c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\include\engine\renderer\glinterface.h
+
+1464314253 source:c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\src\engine\renderer\glinterface.cpp
+	"engine/includes/renderer.h"
+
+1464314793 e:\documents\new folder\_waitlist\sfml test\sfmltest\include\engine\renderer\glinterface.h
+
+1464314253 source:e:\documents\new folder\_waitlist\sfml test\sfmltest\src\engine\renderer\glinterface.cpp
+	"engine/includes/renderer.h"
+
+1424017883 c:\documents\_create\_wip\_libraries\glm\glm\glm.hpp
+	"detail/_fixes.hpp"
+	<cmath>
+	<climits>
+	<cfloat>
+	<limits>
+	<cassert>
+	"fwd.hpp"
+	"vec2.hpp"
+	"vec3.hpp"
+	"vec4.hpp"
+	"mat2x2.hpp"
+	"mat2x3.hpp"
+	"mat2x4.hpp"
+	"mat3x2.hpp"
+	"mat3x3.hpp"
+	"mat3x4.hpp"
+	"mat4x2.hpp"
+	"mat4x3.hpp"
+	"mat4x4.hpp"
+	"trigonometric.hpp"
+	"exponential.hpp"
+	"common.hpp"
+	"packing.hpp"
+	"geometric.hpp"
+	"matrix.hpp"
+	"vector_relational.hpp"
+	"integer.hpp"
+
+1424017883 c:\documents\_create\_wip\_libraries\glm\glm\detail\_fixes.hpp
+	<cmath>
+
+1438464936 c:\documents\_create\_wip\_libraries\glm\glm\fwd.hpp
+	"detail/type_int.hpp"
+	"detail/type_float.hpp"
+	"detail/type_vec.hpp"
+	"detail/type_mat.hpp"
+
+1424017883 c:\documents\_create\_wip\_libraries\glm\glm\detail\type_int.hpp
+	"setup.hpp"
+	<type_traits>
+	<cstdint>
+
+1458392818 c:\documents\_create\_wip\_libraries\glm\glm\detail\setup.hpp
+	<cassert>
+	<cstddef>
+	<cuda.h>
+	<intrin.h>
+	<immintrin.h>
+	<immintrin.h>
+	<smmintrin.h>
+	<pmmintrin.h>
+	<emmintrin.h>
+	<__config>
+
+1424017883 c:\documents\_create\_wip\_libraries\glm\glm\detail\type_float.hpp
+	"setup.hpp"
+
+1438465103 c:\documents\_create\_wip\_libraries\glm\glm\detail\type_vec.hpp
+	"precision.hpp"
+	"type_int.hpp"
+
+1457816885 c:\documents\_create\_wip\_libraries\glm\glm\detail\precision.hpp
+
+1424017883 c:\documents\_create\_wip\_libraries\glm\glm\detail\type_mat.hpp
+	"precision.hpp"
+
+1424017883 c:\documents\_create\_wip\_libraries\glm\glm\vec2.hpp
+	"detail/type_vec2.hpp"
+
+1458392781 c:\documents\_create\_wip\_libraries\glm\glm\detail\type_vec2.hpp
+	"type_vec.hpp"
+	"_swizzle.hpp"
+	"_swizzle_func.hpp"
+	<cstddef>
+	"type_vec2.inl"
+
+1424017883 c:\documents\_create\_wip\_libraries\glm\glm\detail\_swizzle.hpp
+
+1424017883 c:\documents\_create\_wip\_libraries\glm\glm\detail\_swizzle_func.hpp
+
+1458392781 c:\documents\_create\_wip\_libraries\glm\glm\detail\type_vec2.inl
+
+1424017883 c:\documents\_create\_wip\_libraries\glm\glm\vec3.hpp
+	"detail/type_vec3.hpp"
+
+1458392781 c:\documents\_create\_wip\_libraries\glm\glm\detail\type_vec3.hpp
+	"type_vec.hpp"
+	"_swizzle.hpp"
+	"_swizzle_func.hpp"
+	<cstddef>
+	"type_vec3.inl"
+
+1458392781 c:\documents\_create\_wip\_libraries\glm\glm\detail\type_vec3.inl
+
+1424017883 c:\documents\_create\_wip\_libraries\glm\glm\vec4.hpp
+	"detail/type_vec4.hpp"
+
+1458392818 c:\documents\_create\_wip\_libraries\glm\glm\detail\type_vec4.hpp
+	"setup.hpp"
+	"type_vec.hpp"
+	"_swizzle.hpp"
+	"_swizzle_func.hpp"
+	<cstddef>
+	"type_vec4.inl"
+
+1458392818 c:\documents\_create\_wip\_libraries\glm\glm\detail\type_vec4.inl
+	"type_vec4_sse2.inl"
+	"type_vec4_avx.inl"
+	"type_vec4_avx2.inl"
+
+1441038892 c:\documents\_create\_wip\_libraries\glm\glm\detail\type_vec4_sse2.inl
+
+1424017883 c:\documents\_create\_wip\_libraries\glm\glm\detail\type_vec4_avx.inl
+
+1424017883 c:\documents\_create\_wip\_libraries\glm\glm\detail\type_vec4_avx2.inl
+
+1424017883 c:\documents\_create\_wip\_libraries\glm\glm\mat2x2.hpp
+	"detail/type_mat2x2.hpp"
+
+1458392781 c:\documents\_create\_wip\_libraries\glm\glm\detail\type_mat2x2.hpp
+	"../fwd.hpp"
+	"type_vec2.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat2x2.inl"
+
+1457869625 c:\documents\_create\_wip\_libraries\glm\glm\detail\type_mat2x2.inl
+
+1424017883 c:\documents\_create\_wip\_libraries\glm\glm\mat2x3.hpp
+	"detail/type_mat2x3.hpp"
+
+1458392781 c:\documents\_create\_wip\_libraries\glm\glm\detail\type_mat2x3.hpp
+	"../fwd.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat2x3.inl"
+
+1457869625 c:\documents\_create\_wip\_libraries\glm\glm\detail\type_mat2x3.inl
+
+1424017883 c:\documents\_create\_wip\_libraries\glm\glm\mat2x4.hpp
+	"detail/type_mat2x4.hpp"
+
+1458392818 c:\documents\_create\_wip\_libraries\glm\glm\detail\type_mat2x4.hpp
+	"../fwd.hpp"
+	"type_vec2.hpp"
+	"type_vec4.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat2x4.inl"
+
+1458392818 c:\documents\_create\_wip\_libraries\glm\glm\detail\type_mat2x4.inl
+
+1424017883 c:\documents\_create\_wip\_libraries\glm\glm\mat3x2.hpp
+	"detail/type_mat3x2.hpp"
+
+1458392781 c:\documents\_create\_wip\_libraries\glm\glm\detail\type_mat3x2.hpp
+	"../fwd.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat3x2.inl"
+
+1457869432 c:\documents\_create\_wip\_libraries\glm\glm\detail\type_mat3x2.inl
+
+1424017883 c:\documents\_create\_wip\_libraries\glm\glm\mat3x3.hpp
+	"detail/type_mat3x3.hpp"
+
+1458392781 c:\documents\_create\_wip\_libraries\glm\glm\detail\type_mat3x3.hpp
+	"../fwd.hpp"
+	"type_vec3.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat3x3.inl"
+
+1457869432 c:\documents\_create\_wip\_libraries\glm\glm\detail\type_mat3x3.inl
+
+1424017883 c:\documents\_create\_wip\_libraries\glm\glm\mat3x4.hpp
+	"detail/type_mat3x4.hpp"
+
+1458392781 c:\documents\_create\_wip\_libraries\glm\glm\detail\type_mat3x4.hpp
+	"../fwd.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat3x4.inl"
+
+1457869431 c:\documents\_create\_wip\_libraries\glm\glm\detail\type_mat3x4.inl
+
+1424017883 c:\documents\_create\_wip\_libraries\glm\glm\mat4x2.hpp
+	"detail/type_mat4x2.hpp"
+
+1458392781 c:\documents\_create\_wip\_libraries\glm\glm\detail\type_mat4x2.hpp
+	"../fwd.hpp"
+	"type_vec2.hpp"
+	"type_vec4.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat4x2.inl"
+
+1458392781 c:\documents\_create\_wip\_libraries\glm\glm\detail\type_mat4x2.inl
+
+1424017883 c:\documents\_create\_wip\_libraries\glm\glm\mat4x3.hpp
+	"detail/type_mat4x3.hpp"
+
+1458392781 c:\documents\_create\_wip\_libraries\glm\glm\detail\type_mat4x3.hpp
+	"../fwd.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat4x3.inl"
+
+1457869431 c:\documents\_create\_wip\_libraries\glm\glm\detail\type_mat4x3.inl
+
+1424017883 c:\documents\_create\_wip\_libraries\glm\glm\mat4x4.hpp
+	"detail/type_mat4x4.hpp"
+
+1458392818 c:\documents\_create\_wip\_libraries\glm\glm\detail\type_mat4x4.hpp
+	"../fwd.hpp"
+	"type_vec4.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat4x4.inl"
+
+1457869443 c:\documents\_create\_wip\_libraries\glm\glm\detail\type_mat4x4.inl
+
+1424017883 c:\documents\_create\_wip\_libraries\glm\glm\trigonometric.hpp
+	"detail/func_trigonometric.hpp"
+
+1441051837 c:\documents\_create\_wip\_libraries\glm\glm\detail\func_trigonometric.hpp
+	"setup.hpp"
+	"precision.hpp"
+	"func_trigonometric.inl"
+
+1458392781 c:\documents\_create\_wip\_libraries\glm\glm\detail\func_trigonometric.inl
+	"_vectorize.hpp"
+	<cmath>
+	<limits>
+
+1424017883 c:\documents\_create\_wip\_libraries\glm\glm\detail\_vectorize.hpp
+	"type_vec1.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+
+1458392781 c:\documents\_create\_wip\_libraries\glm\glm\detail\type_vec1.hpp
+	"../fwd.hpp"
+	"type_vec.hpp"
+	"_swizzle.hpp"
+	"_swizzle_func.hpp"
+	<cstddef>
+	"type_vec1.inl"
+
+1458392781 c:\documents\_create\_wip\_libraries\glm\glm\detail\type_vec1.inl
+
+1424017883 c:\documents\_create\_wip\_libraries\glm\glm\exponential.hpp
+	"detail/func_exponential.hpp"
+
+1424017883 c:\documents\_create\_wip\_libraries\glm\glm\detail\func_exponential.hpp
+	"type_vec1.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	<cmath>
+	"func_exponential.inl"
+
+1424017883 c:\documents\_create\_wip\_libraries\glm\glm\detail\func_exponential.inl
+	"func_vector_relational.hpp"
+	"_vectorize.hpp"
+	<limits>
+	<cmath>
+	<cassert>
+
+1424017883 c:\documents\_create\_wip\_libraries\glm\glm\detail\func_vector_relational.hpp
+	"precision.hpp"
+	"setup.hpp"
+	"func_vector_relational.inl"
+
+1424017883 c:\documents\_create\_wip\_libraries\glm\glm\detail\func_vector_relational.inl
+	<limits>
+
+1424017883 c:\documents\_create\_wip\_libraries\glm\glm\common.hpp
+	"detail/func_common.hpp"
+
+1424017883 c:\documents\_create\_wip\_libraries\glm\glm\detail\func_common.hpp
+	"setup.hpp"
+	"precision.hpp"
+	"type_int.hpp"
+	"_fixes.hpp"
+	"func_common.inl"
+
+1451845234 c:\documents\_create\_wip\_libraries\glm\glm\detail\func_common.inl
+	"func_vector_relational.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	"_vectorize.hpp"
+	<limits>
+
+1424017883 c:\documents\_create\_wip\_libraries\glm\glm\packing.hpp
+	"detail/func_packing.hpp"
+
+1424017883 c:\documents\_create\_wip\_libraries\glm\glm\detail\func_packing.hpp
+	"type_vec2.hpp"
+	"type_vec4.hpp"
+	"func_packing.inl"
+
+1437262117 c:\documents\_create\_wip\_libraries\glm\glm\detail\func_packing.inl
+	"func_common.hpp"
+	"type_half.hpp"
+	"../fwd.hpp"
+
+1424017883 c:\documents\_create\_wip\_libraries\glm\glm\detail\type_half.hpp
+	"setup.hpp"
+	"type_half.inl"
+
+1451845614 c:\documents\_create\_wip\_libraries\glm\glm\detail\type_half.inl
+
+1424017883 c:\documents\_create\_wip\_libraries\glm\glm\geometric.hpp
+	"detail/func_geometric.hpp"
+
+1424017883 c:\documents\_create\_wip\_libraries\glm\glm\detail\func_geometric.hpp
+	"type_vec3.hpp"
+	"func_geometric.inl"
+
+1458392781 c:\documents\_create\_wip\_libraries\glm\glm\detail\func_geometric.inl
+	"func_exponential.hpp"
+	"func_common.hpp"
+	"type_vec2.hpp"
+	"type_vec4.hpp"
+	"type_float.hpp"
+
+1424017883 c:\documents\_create\_wip\_libraries\glm\glm\matrix.hpp
+	"detail/func_matrix.hpp"
+
+1457221879 c:\documents\_create\_wip\_libraries\glm\glm\detail\func_matrix.hpp
+	"../detail/precision.hpp"
+	"../detail/setup.hpp"
+	"../detail/type_mat.hpp"
+	"../vec2.hpp"
+	"../vec3.hpp"
+	"../vec4.hpp"
+	"../mat2x2.hpp"
+	"../mat2x3.hpp"
+	"../mat2x4.hpp"
+	"../mat3x2.hpp"
+	"../mat3x3.hpp"
+	"../mat3x4.hpp"
+	"../mat4x2.hpp"
+	"../mat4x3.hpp"
+	"../mat4x4.hpp"
+	"func_matrix.inl"
+
+1424017883 c:\documents\_create\_wip\_libraries\glm\glm\detail\func_matrix.inl
+	"../geometric.hpp"
+	<limits>
+
+1424017883 c:\documents\_create\_wip\_libraries\glm\glm\vector_relational.hpp
+	"detail/func_vector_relational.hpp"
+
+1424017883 c:\documents\_create\_wip\_libraries\glm\glm\integer.hpp
+	"detail/func_integer.hpp"
+
+1424017883 c:\documents\_create\_wip\_libraries\glm\glm\detail\func_integer.hpp
+	"setup.hpp"
+	"precision.hpp"
+	"func_common.hpp"
+	"func_vector_relational.hpp"
+	"func_integer.inl"
+
+1426535103 c:\documents\_create\_wip\_libraries\glm\glm\detail\func_integer.inl
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	"type_int.hpp"
+	"_vectorize.hpp"
+	<intrin.h>
+	<limits>
+
+1458392781 c:\documents\_create\_wip\_libraries\glm\glm\gtc\matrix_transform.hpp
+	"../mat4x4.hpp"
+	"../vec2.hpp"
+	"../vec3.hpp"
+	"../vec4.hpp"
+	"../gtc/constants.hpp"
+	"matrix_transform.inl"
+
+1441051454 c:\documents\_create\_wip\_libraries\glm\glm\gtc\constants.hpp
+	"../detail/setup.hpp"
+	"constants.inl"
+
+1441052694 c:\documents\_create\_wip\_libraries\glm\glm\gtc\constants.inl
+	<limits>
+
+1458392781 c:\documents\_create\_wip\_libraries\glm\glm\gtc\matrix_transform.inl
+	"../geometric.hpp"
+	"../trigonometric.hpp"
+	"../matrix.hpp"
+
+1424017883 c:\documents\_create\_wip\_libraries\glm\glm\gtc\type_ptr.hpp
+	"../gtc/quaternion.hpp"
+	"../vec2.hpp"
+	"../vec3.hpp"
+	"../vec4.hpp"
+	"../mat2x2.hpp"
+	"../mat2x3.hpp"
+	"../mat2x4.hpp"
+	"../mat3x2.hpp"
+	"../mat3x3.hpp"
+	"../mat3x4.hpp"
+	"../mat4x2.hpp"
+	"../mat4x3.hpp"
+	"../mat4x4.hpp"
+	<cstring>
+	"type_ptr.inl"
+
+1458392818 c:\documents\_create\_wip\_libraries\glm\glm\gtc\quaternion.hpp
+	"../mat3x3.hpp"
+	"../mat4x4.hpp"
+	"../vec3.hpp"
+	"../vec4.hpp"
+	"../gtc/constants.hpp"
+	"quaternion.inl"
+
+1458392781 c:\documents\_create\_wip\_libraries\glm\glm\gtc\quaternion.inl
+	"../trigonometric.hpp"
+	"../geometric.hpp"
+	"../exponential.hpp"
+	<limits>
+
+1424017883 c:\documents\_create\_wip\_libraries\glm\glm\gtc\type_ptr.inl
+	<cstring>
+
+1424017883 e:\documents\new folder\_libraries\glm\glm\glm.hpp
+	"detail/_fixes.hpp"
+	<cmath>
+	<climits>
+	<cfloat>
+	<limits>
+	<cassert>
+	"fwd.hpp"
+	"vec2.hpp"
+	"vec3.hpp"
+	"vec4.hpp"
+	"mat2x2.hpp"
+	"mat2x3.hpp"
+	"mat2x4.hpp"
+	"mat3x2.hpp"
+	"mat3x3.hpp"
+	"mat3x4.hpp"
+	"mat4x2.hpp"
+	"mat4x3.hpp"
+	"mat4x4.hpp"
+	"trigonometric.hpp"
+	"exponential.hpp"
+	"common.hpp"
+	"packing.hpp"
+	"geometric.hpp"
+	"matrix.hpp"
+	"vector_relational.hpp"
+	"integer.hpp"
+
+1424017883 e:\documents\new folder\_libraries\glm\glm\detail\_fixes.hpp
+	<cmath>
+
+1438464936 e:\documents\new folder\_libraries\glm\glm\fwd.hpp
+	"detail/type_int.hpp"
+	"detail/type_float.hpp"
+	"detail/type_vec.hpp"
+	"detail/type_mat.hpp"
+
+1424017883 e:\documents\new folder\_libraries\glm\glm\detail\type_int.hpp
+	"setup.hpp"
+	<type_traits>
+	<cstdint>
+
+1458392818 e:\documents\new folder\_libraries\glm\glm\detail\setup.hpp
+	<cassert>
+	<cstddef>
+	<cuda.h>
+	<intrin.h>
+	<immintrin.h>
+	<immintrin.h>
+	<smmintrin.h>
+	<pmmintrin.h>
+	<emmintrin.h>
+	<__config>
+
+1424017883 e:\documents\new folder\_libraries\glm\glm\detail\type_float.hpp
+	"setup.hpp"
+
+1438465103 e:\documents\new folder\_libraries\glm\glm\detail\type_vec.hpp
+	"precision.hpp"
+	"type_int.hpp"
+
+1457816885 e:\documents\new folder\_libraries\glm\glm\detail\precision.hpp
+
+1424017883 e:\documents\new folder\_libraries\glm\glm\detail\type_mat.hpp
+	"precision.hpp"
+
+1424017883 e:\documents\new folder\_libraries\glm\glm\vec2.hpp
+	"detail/type_vec2.hpp"
+
+1458392781 e:\documents\new folder\_libraries\glm\glm\detail\type_vec2.hpp
+	"type_vec.hpp"
+	"_swizzle.hpp"
+	"_swizzle_func.hpp"
+	<cstddef>
+	"type_vec2.inl"
+
+1424017883 e:\documents\new folder\_libraries\glm\glm\detail\_swizzle.hpp
+
+1424017883 e:\documents\new folder\_libraries\glm\glm\detail\_swizzle_func.hpp
+
+1458392781 e:\documents\new folder\_libraries\glm\glm\detail\type_vec2.inl
+
+1424017883 e:\documents\new folder\_libraries\glm\glm\vec3.hpp
+	"detail/type_vec3.hpp"
+
+1458392781 e:\documents\new folder\_libraries\glm\glm\detail\type_vec3.hpp
+	"type_vec.hpp"
+	"_swizzle.hpp"
+	"_swizzle_func.hpp"
+	<cstddef>
+	"type_vec3.inl"
+
+1458392781 e:\documents\new folder\_libraries\glm\glm\detail\type_vec3.inl
+
+1424017883 e:\documents\new folder\_libraries\glm\glm\vec4.hpp
+	"detail/type_vec4.hpp"
+
+1458392818 e:\documents\new folder\_libraries\glm\glm\detail\type_vec4.hpp
+	"setup.hpp"
+	"type_vec.hpp"
+	"_swizzle.hpp"
+	"_swizzle_func.hpp"
+	<cstddef>
+	"type_vec4.inl"
+
+1458392818 e:\documents\new folder\_libraries\glm\glm\detail\type_vec4.inl
+	"type_vec4_sse2.inl"
+	"type_vec4_avx.inl"
+	"type_vec4_avx2.inl"
+
+1441038892 e:\documents\new folder\_libraries\glm\glm\detail\type_vec4_sse2.inl
+
+1424017883 e:\documents\new folder\_libraries\glm\glm\detail\type_vec4_avx.inl
+
+1424017883 e:\documents\new folder\_libraries\glm\glm\detail\type_vec4_avx2.inl
+
+1424017883 e:\documents\new folder\_libraries\glm\glm\mat2x2.hpp
+	"detail/type_mat2x2.hpp"
+
+1458392781 e:\documents\new folder\_libraries\glm\glm\detail\type_mat2x2.hpp
+	"../fwd.hpp"
+	"type_vec2.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat2x2.inl"
+
+1457869625 e:\documents\new folder\_libraries\glm\glm\detail\type_mat2x2.inl
+
+1424017883 e:\documents\new folder\_libraries\glm\glm\mat2x3.hpp
+	"detail/type_mat2x3.hpp"
+
+1458392781 e:\documents\new folder\_libraries\glm\glm\detail\type_mat2x3.hpp
+	"../fwd.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat2x3.inl"
+
+1457869625 e:\documents\new folder\_libraries\glm\glm\detail\type_mat2x3.inl
+
+1424017883 e:\documents\new folder\_libraries\glm\glm\mat2x4.hpp
+	"detail/type_mat2x4.hpp"
+
+1458392818 e:\documents\new folder\_libraries\glm\glm\detail\type_mat2x4.hpp
+	"../fwd.hpp"
+	"type_vec2.hpp"
+	"type_vec4.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat2x4.inl"
+
+1458392818 e:\documents\new folder\_libraries\glm\glm\detail\type_mat2x4.inl
+
+1424017883 e:\documents\new folder\_libraries\glm\glm\mat3x2.hpp
+	"detail/type_mat3x2.hpp"
+
+1458392781 e:\documents\new folder\_libraries\glm\glm\detail\type_mat3x2.hpp
+	"../fwd.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat3x2.inl"
+
+1457869432 e:\documents\new folder\_libraries\glm\glm\detail\type_mat3x2.inl
+
+1424017883 e:\documents\new folder\_libraries\glm\glm\mat3x3.hpp
+	"detail/type_mat3x3.hpp"
+
+1458392781 e:\documents\new folder\_libraries\glm\glm\detail\type_mat3x3.hpp
+	"../fwd.hpp"
+	"type_vec3.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat3x3.inl"
+
+1457869432 e:\documents\new folder\_libraries\glm\glm\detail\type_mat3x3.inl
+
+1424017883 e:\documents\new folder\_libraries\glm\glm\mat3x4.hpp
+	"detail/type_mat3x4.hpp"
+
+1458392781 e:\documents\new folder\_libraries\glm\glm\detail\type_mat3x4.hpp
+	"../fwd.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat3x4.inl"
+
+1457869431 e:\documents\new folder\_libraries\glm\glm\detail\type_mat3x4.inl
+
+1424017883 e:\documents\new folder\_libraries\glm\glm\mat4x2.hpp
+	"detail/type_mat4x2.hpp"
+
+1458392781 e:\documents\new folder\_libraries\glm\glm\detail\type_mat4x2.hpp
+	"../fwd.hpp"
+	"type_vec2.hpp"
+	"type_vec4.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat4x2.inl"
+
+1458392781 e:\documents\new folder\_libraries\glm\glm\detail\type_mat4x2.inl
+
+1424017883 e:\documents\new folder\_libraries\glm\glm\mat4x3.hpp
+	"detail/type_mat4x3.hpp"
+
+1458392781 e:\documents\new folder\_libraries\glm\glm\detail\type_mat4x3.hpp
+	"../fwd.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat4x3.inl"
+
+1457869431 e:\documents\new folder\_libraries\glm\glm\detail\type_mat4x3.inl
+
+1424017883 e:\documents\new folder\_libraries\glm\glm\mat4x4.hpp
+	"detail/type_mat4x4.hpp"
+
+1458392818 e:\documents\new folder\_libraries\glm\glm\detail\type_mat4x4.hpp
+	"../fwd.hpp"
+	"type_vec4.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat4x4.inl"
+
+1457869443 e:\documents\new folder\_libraries\glm\glm\detail\type_mat4x4.inl
+
+1424017883 e:\documents\new folder\_libraries\glm\glm\trigonometric.hpp
+	"detail/func_trigonometric.hpp"
+
+1441051837 e:\documents\new folder\_libraries\glm\glm\detail\func_trigonometric.hpp
+	"setup.hpp"
+	"precision.hpp"
+	"func_trigonometric.inl"
+
+1458392781 e:\documents\new folder\_libraries\glm\glm\detail\func_trigonometric.inl
+	"_vectorize.hpp"
+	<cmath>
+	<limits>
+
+1424017883 e:\documents\new folder\_libraries\glm\glm\detail\_vectorize.hpp
+	"type_vec1.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+
+1458392781 e:\documents\new folder\_libraries\glm\glm\detail\type_vec1.hpp
+	"../fwd.hpp"
+	"type_vec.hpp"
+	"_swizzle.hpp"
+	"_swizzle_func.hpp"
+	<cstddef>
+	"type_vec1.inl"
+
+1458392781 e:\documents\new folder\_libraries\glm\glm\detail\type_vec1.inl
+
+1424017883 e:\documents\new folder\_libraries\glm\glm\exponential.hpp
+	"detail/func_exponential.hpp"
+
+1424017883 e:\documents\new folder\_libraries\glm\glm\detail\func_exponential.hpp
+	"type_vec1.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	<cmath>
+	"func_exponential.inl"
+
+1424017883 e:\documents\new folder\_libraries\glm\glm\detail\func_exponential.inl
+	"func_vector_relational.hpp"
+	"_vectorize.hpp"
+	<limits>
+	<cmath>
+	<cassert>
+
+1424017883 e:\documents\new folder\_libraries\glm\glm\detail\func_vector_relational.hpp
+	"precision.hpp"
+	"setup.hpp"
+	"func_vector_relational.inl"
+
+1424017883 e:\documents\new folder\_libraries\glm\glm\detail\func_vector_relational.inl
+	<limits>
+
+1424017883 e:\documents\new folder\_libraries\glm\glm\common.hpp
+	"detail/func_common.hpp"
+
+1424017883 e:\documents\new folder\_libraries\glm\glm\detail\func_common.hpp
+	"setup.hpp"
+	"precision.hpp"
+	"type_int.hpp"
+	"_fixes.hpp"
+	"func_common.inl"
+
+1451845234 e:\documents\new folder\_libraries\glm\glm\detail\func_common.inl
+	"func_vector_relational.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	"_vectorize.hpp"
+	<limits>
+
+1424017883 e:\documents\new folder\_libraries\glm\glm\packing.hpp
+	"detail/func_packing.hpp"
+
+1424017883 e:\documents\new folder\_libraries\glm\glm\detail\func_packing.hpp
+	"type_vec2.hpp"
+	"type_vec4.hpp"
+	"func_packing.inl"
+
+1437262117 e:\documents\new folder\_libraries\glm\glm\detail\func_packing.inl
+	"func_common.hpp"
+	"type_half.hpp"
+	"../fwd.hpp"
+
+1424017883 e:\documents\new folder\_libraries\glm\glm\detail\type_half.hpp
+	"setup.hpp"
+	"type_half.inl"
+
+1451845614 e:\documents\new folder\_libraries\glm\glm\detail\type_half.inl
+
+1424017883 e:\documents\new folder\_libraries\glm\glm\geometric.hpp
+	"detail/func_geometric.hpp"
+
+1424017883 e:\documents\new folder\_libraries\glm\glm\detail\func_geometric.hpp
+	"type_vec3.hpp"
+	"func_geometric.inl"
+
+1458392781 e:\documents\new folder\_libraries\glm\glm\detail\func_geometric.inl
+	"func_exponential.hpp"
+	"func_common.hpp"
+	"type_vec2.hpp"
+	"type_vec4.hpp"
+	"type_float.hpp"
+
+1424017883 e:\documents\new folder\_libraries\glm\glm\matrix.hpp
+	"detail/func_matrix.hpp"
+
+1457221879 e:\documents\new folder\_libraries\glm\glm\detail\func_matrix.hpp
+	"../detail/precision.hpp"
+	"../detail/setup.hpp"
+	"../detail/type_mat.hpp"
+	"../vec2.hpp"
+	"../vec3.hpp"
+	"../vec4.hpp"
+	"../mat2x2.hpp"
+	"../mat2x3.hpp"
+	"../mat2x4.hpp"
+	"../mat3x2.hpp"
+	"../mat3x3.hpp"
+	"../mat3x4.hpp"
+	"../mat4x2.hpp"
+	"../mat4x3.hpp"
+	"../mat4x4.hpp"
+	"func_matrix.inl"
+
+1424017883 e:\documents\new folder\_libraries\glm\glm\detail\func_matrix.inl
+	"../geometric.hpp"
+	<limits>
+
+1424017883 e:\documents\new folder\_libraries\glm\glm\vector_relational.hpp
+	"detail/func_vector_relational.hpp"
+
+1424017883 e:\documents\new folder\_libraries\glm\glm\integer.hpp
+	"detail/func_integer.hpp"
+
+1424017883 e:\documents\new folder\_libraries\glm\glm\detail\func_integer.hpp
+	"setup.hpp"
+	"precision.hpp"
+	"func_common.hpp"
+	"func_vector_relational.hpp"
+	"func_integer.inl"
+
+1426535103 e:\documents\new folder\_libraries\glm\glm\detail\func_integer.inl
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	"type_int.hpp"
+	"_vectorize.hpp"
+	<intrin.h>
+	<limits>
+
+1458392781 e:\documents\new folder\_libraries\glm\glm\gtc\matrix_transform.hpp
+	"../mat4x4.hpp"
+	"../vec2.hpp"
+	"../vec3.hpp"
+	"../vec4.hpp"
+	"../gtc/constants.hpp"
+	"matrix_transform.inl"
+
+1441051454 e:\documents\new folder\_libraries\glm\glm\gtc\constants.hpp
+	"../detail/setup.hpp"
+	"constants.inl"
+
+1441052694 e:\documents\new folder\_libraries\glm\glm\gtc\constants.inl
+	<limits>
+
+1458392781 e:\documents\new folder\_libraries\glm\glm\gtc\matrix_transform.inl
+	"../geometric.hpp"
+	"../trigonometric.hpp"
+	"../matrix.hpp"
+
+1424017883 e:\documents\new folder\_libraries\glm\glm\gtc\type_ptr.hpp
+	"../gtc/quaternion.hpp"
+	"../vec2.hpp"
+	"../vec3.hpp"
+	"../vec4.hpp"
+	"../mat2x2.hpp"
+	"../mat2x3.hpp"
+	"../mat2x4.hpp"
+	"../mat3x2.hpp"
+	"../mat3x3.hpp"
+	"../mat3x4.hpp"
+	"../mat4x2.hpp"
+	"../mat4x3.hpp"
+	"../mat4x4.hpp"
+	<cstring>
+	"type_ptr.inl"
+
+1458392818 e:\documents\new folder\_libraries\glm\glm\gtc\quaternion.hpp
+	"../mat3x3.hpp"
+	"../mat4x4.hpp"
+	"../vec3.hpp"
+	"../vec4.hpp"
+	"../gtc/constants.hpp"
+	"quaternion.inl"
+
+1458392781 e:\documents\new folder\_libraries\glm\glm\gtc\quaternion.inl
+	"../trigonometric.hpp"
+	"../geometric.hpp"
+	"../exponential.hpp"
+	<limits>
+
+1424017883 e:\documents\new folder\_libraries\glm\glm\gtc\type_ptr.inl
+	<cstring>
+
+1464314204 source:e:\documents\new folder\_waitlist\sfml test\sfmltest\src\engine\display\n3dgeometry.cpp
+	"engine/includes/display.h"
+
+1462375086 e:\documents\new folder\_waitlist\sfml test\sfmltest\include\engine\display\n3dgeometry.h
+
+1464314204 source:c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\src\engine\display\n3dgeometry.cpp
+	"engine/includes/display.h"
+
+1464314071 c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\include\engine\display\n3dgeometry.h
+	"engine/includes/display.h"
+
+1424032284 c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\include\glm\glm.hpp
+	"detail/_fixes.hpp"
+	<cmath>
+	<climits>
+	<cfloat>
+	<limits>
+	<cassert>
+	"fwd.hpp"
+	"vec2.hpp"
+	"vec3.hpp"
+	"vec4.hpp"
+	"mat2x2.hpp"
+	"mat2x3.hpp"
+	"mat2x4.hpp"
+	"mat3x2.hpp"
+	"mat3x3.hpp"
+	"mat3x4.hpp"
+	"mat4x2.hpp"
+	"mat4x3.hpp"
+	"mat4x4.hpp"
+	"trigonometric.hpp"
+	"exponential.hpp"
+	"common.hpp"
+	"packing.hpp"
+	"geometric.hpp"
+	"matrix.hpp"
+	"vector_relational.hpp"
+	"integer.hpp"
+
+1424032284 c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\include\glm\detail\_fixes.hpp
+	<cmath>
+
+1438482938 c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\include\glm\fwd.hpp
+	"detail/type_int.hpp"
+	"detail/type_float.hpp"
+	"detail/type_vec.hpp"
+	"detail/type_mat.hpp"
+
+1424032284 c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\include\glm\detail\type_int.hpp
+	"setup.hpp"
+	<type_traits>
+	<cstdint>
+
+1458410820 c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\include\glm\detail\setup.hpp
+	<cassert>
+	<cstddef>
+	<cuda.h>
+	<intrin.h>
+	<immintrin.h>
+	<immintrin.h>
+	<smmintrin.h>
+	<pmmintrin.h>
+	<emmintrin.h>
+	<__config>
+
+1424032284 c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\include\glm\detail\type_float.hpp
+	"setup.hpp"
+
+1438483104 c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\include\glm\detail\type_vec.hpp
+	"precision.hpp"
+	"type_int.hpp"
+
+1457831286 c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\include\glm\detail\precision.hpp
+
+1424032284 c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\include\glm\detail\type_mat.hpp
+	"precision.hpp"
+
+1424032284 c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\include\glm\vec2.hpp
+	"detail/type_vec2.hpp"
+
+1458410782 c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\include\glm\detail\type_vec2.hpp
+	"type_vec.hpp"
+	"_swizzle.hpp"
+	"_swizzle_func.hpp"
+	<cstddef>
+	"type_vec2.inl"
+
+1424032284 c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\include\glm\detail\_swizzle.hpp
+
+1424032284 c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\include\glm\detail\_swizzle_func.hpp
+
+1458410782 c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\include\glm\detail\type_vec2.inl
+
+1424032284 c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\include\glm\vec3.hpp
+	"detail/type_vec3.hpp"
+
+1458410782 c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\include\glm\detail\type_vec3.hpp
+	"type_vec.hpp"
+	"_swizzle.hpp"
+	"_swizzle_func.hpp"
+	<cstddef>
+	"type_vec3.inl"
+
+1458410782 c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\include\glm\detail\type_vec3.inl
+
+1424032284 c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\include\glm\vec4.hpp
+	"detail/type_vec4.hpp"
+
+1458410820 c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\include\glm\detail\type_vec4.hpp
+	"setup.hpp"
+	"type_vec.hpp"
+	"_swizzle.hpp"
+	"_swizzle_func.hpp"
+	<cstddef>
+	"type_vec4.inl"
+
+1458410820 c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\include\glm\detail\type_vec4.inl
+	"type_vec4_sse2.inl"
+	"type_vec4_avx.inl"
+	"type_vec4_avx2.inl"
+
+1441056894 c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\include\glm\detail\type_vec4_sse2.inl
+
+1424032284 c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\include\glm\detail\type_vec4_avx.inl
+
+1424032284 c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\include\glm\detail\type_vec4_avx2.inl
+
+1424032284 c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\include\glm\mat2x2.hpp
+	"detail/type_mat2x2.hpp"
+
+1458410782 c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\include\glm\detail\type_mat2x2.hpp
+	"../fwd.hpp"
+	"type_vec2.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat2x2.inl"
+
+1457887626 c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\include\glm\detail\type_mat2x2.inl
+
+1424032284 c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\include\glm\mat2x3.hpp
+	"detail/type_mat2x3.hpp"
+
+1458410782 c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\include\glm\detail\type_mat2x3.hpp
+	"../fwd.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat2x3.inl"
+
+1457887626 c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\include\glm\detail\type_mat2x3.inl
+
+1424032284 c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\include\glm\mat2x4.hpp
+	"detail/type_mat2x4.hpp"
+
+1458410820 c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\include\glm\detail\type_mat2x4.hpp
+	"../fwd.hpp"
+	"type_vec2.hpp"
+	"type_vec4.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat2x4.inl"
+
+1458410820 c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\include\glm\detail\type_mat2x4.inl
+
+1424032284 c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\include\glm\mat3x2.hpp
+	"detail/type_mat3x2.hpp"
+
+1458410782 c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\include\glm\detail\type_mat3x2.hpp
+	"../fwd.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat3x2.inl"
+
+1457887434 c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\include\glm\detail\type_mat3x2.inl
+
+1424032284 c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\include\glm\mat3x3.hpp
+	"detail/type_mat3x3.hpp"
+
+1458410782 c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\include\glm\detail\type_mat3x3.hpp
+	"../fwd.hpp"
+	"type_vec3.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat3x3.inl"
+
+1457887434 c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\include\glm\detail\type_mat3x3.inl
+
+1424032284 c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\include\glm\mat3x4.hpp
+	"detail/type_mat3x4.hpp"
+
+1458410782 c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\include\glm\detail\type_mat3x4.hpp
+	"../fwd.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat3x4.inl"
+
+1457887432 c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\include\glm\detail\type_mat3x4.inl
+
+1424032284 c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\include\glm\mat4x2.hpp
+	"detail/type_mat4x2.hpp"
+
+1458410782 c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\include\glm\detail\type_mat4x2.hpp
+	"../fwd.hpp"
+	"type_vec2.hpp"
+	"type_vec4.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat4x2.inl"
+
+1458410782 c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\include\glm\detail\type_mat4x2.inl
+
+1424032284 c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\include\glm\mat4x3.hpp
+	"detail/type_mat4x3.hpp"
+
+1458410782 c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\include\glm\detail\type_mat4x3.hpp
+	"../fwd.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat4x3.inl"
+
+1457887432 c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\include\glm\detail\type_mat4x3.inl
+
+1424032284 c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\include\glm\mat4x4.hpp
+	"detail/type_mat4x4.hpp"
+
+1458410820 c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\include\glm\detail\type_mat4x4.hpp
+	"../fwd.hpp"
+	"type_vec4.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat4x4.inl"
+
+1457887444 c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\include\glm\detail\type_mat4x4.inl
+
+1424032284 c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\include\glm\trigonometric.hpp
+	"detail/func_trigonometric.hpp"
+
+1441069838 c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\include\glm\detail\func_trigonometric.hpp
+	"setup.hpp"
+	"precision.hpp"
+	"func_trigonometric.inl"
+
+1458410782 c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\include\glm\detail\func_trigonometric.inl
+	"_vectorize.hpp"
+	<cmath>
+	<limits>
+
+1424032284 c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\include\glm\detail\_vectorize.hpp
+	"type_vec1.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+
+1458410782 c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\include\glm\detail\type_vec1.hpp
+	"../fwd.hpp"
+	"type_vec.hpp"
+	"_swizzle.hpp"
+	"_swizzle_func.hpp"
+	<cstddef>
+	"type_vec1.inl"
+
+1458410782 c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\include\glm\detail\type_vec1.inl
+
+1424032284 c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\include\glm\exponential.hpp
+	"detail/func_exponential.hpp"
+
+1424032284 c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\include\glm\detail\func_exponential.hpp
+	"type_vec1.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	<cmath>
+	"func_exponential.inl"
+
+1424032284 c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\include\glm\detail\func_exponential.inl
+	"func_vector_relational.hpp"
+	"_vectorize.hpp"
+	<limits>
+	<cmath>
+	<cassert>
+
+1424032284 c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\include\glm\detail\func_vector_relational.hpp
+	"precision.hpp"
+	"setup.hpp"
+	"func_vector_relational.inl"
+
+1424032284 c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\include\glm\detail\func_vector_relational.inl
+	<limits>
+
+1424032284 c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\include\glm\common.hpp
+	"detail/func_common.hpp"
+
+1424032284 c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\include\glm\detail\func_common.hpp
+	"setup.hpp"
+	"precision.hpp"
+	"type_int.hpp"
+	"_fixes.hpp"
+	"func_common.inl"
+
+1451859636 c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\include\glm\detail\func_common.inl
+	"func_vector_relational.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	"_vectorize.hpp"
+	<limits>
+
+1424032284 c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\include\glm\packing.hpp
+	"detail/func_packing.hpp"
+
+1424032284 c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\include\glm\detail\func_packing.hpp
+	"type_vec2.hpp"
+	"type_vec4.hpp"
+	"func_packing.inl"
+
+1437280118 c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\include\glm\detail\func_packing.inl
+	"func_common.hpp"
+	"type_half.hpp"
+	"../fwd.hpp"
+
+1424032284 c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\include\glm\detail\type_half.hpp
+	"setup.hpp"
+	"type_half.inl"
+
+1451860016 c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\include\glm\detail\type_half.inl
+
+1424032284 c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\include\glm\geometric.hpp
+	"detail/func_geometric.hpp"
+
+1424032284 c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\include\glm\detail\func_geometric.hpp
+	"type_vec3.hpp"
+	"func_geometric.inl"
+
+1458410782 c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\include\glm\detail\func_geometric.inl
+	"func_exponential.hpp"
+	"func_common.hpp"
+	"type_vec2.hpp"
+	"type_vec4.hpp"
+	"type_float.hpp"
+
+1424032284 c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\include\glm\matrix.hpp
+	"detail/func_matrix.hpp"
+
+1457236280 c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\include\glm\detail\func_matrix.hpp
+	"../detail/precision.hpp"
+	"../detail/setup.hpp"
+	"../detail/type_mat.hpp"
+	"../vec2.hpp"
+	"../vec3.hpp"
+	"../vec4.hpp"
+	"../mat2x2.hpp"
+	"../mat2x3.hpp"
+	"../mat2x4.hpp"
+	"../mat3x2.hpp"
+	"../mat3x3.hpp"
+	"../mat3x4.hpp"
+	"../mat4x2.hpp"
+	"../mat4x3.hpp"
+	"../mat4x4.hpp"
+	"func_matrix.inl"
+
+1424032284 c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\include\glm\detail\func_matrix.inl
+	"../geometric.hpp"
+	<limits>
+
+1424032284 c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\include\glm\vector_relational.hpp
+	"detail/func_vector_relational.hpp"
+
+1424032284 c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\include\glm\integer.hpp
+	"detail/func_integer.hpp"
+
+1424032284 c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\include\glm\detail\func_integer.hpp
+	"setup.hpp"
+	"precision.hpp"
+	"func_common.hpp"
+	"func_vector_relational.hpp"
+	"func_integer.inl"
+
+1426553104 c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\include\glm\detail\func_integer.inl
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	"type_int.hpp"
+	"_vectorize.hpp"
+	<intrin.h>
+	<limits>
+
+1458410782 c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\include\glm\gtc\matrix_transform.hpp
+	"../mat4x4.hpp"
+	"../vec2.hpp"
+	"../vec3.hpp"
+	"../vec4.hpp"
+	"../gtc/constants.hpp"
+	"matrix_transform.inl"
+
+1441069456 c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\include\glm\gtc\constants.hpp
+	"../detail/setup.hpp"
+	"constants.inl"
+
+1441070696 c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\include\glm\gtc\constants.inl
+	<limits>
+
+1458410782 c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\include\glm\gtc\matrix_transform.inl
+	"../geometric.hpp"
+	"../trigonometric.hpp"
+	"../matrix.hpp"
+
+1424032284 c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\include\glm\gtc\type_ptr.hpp
+	"../gtc/quaternion.hpp"
+	"../vec2.hpp"
+	"../vec3.hpp"
+	"../vec4.hpp"
+	"../mat2x2.hpp"
+	"../mat2x3.hpp"
+	"../mat2x4.hpp"
+	"../mat3x2.hpp"
+	"../mat3x3.hpp"
+	"../mat3x4.hpp"
+	"../mat4x2.hpp"
+	"../mat4x3.hpp"
+	"../mat4x4.hpp"
+	<cstring>
+	"type_ptr.inl"
+
+1458410820 c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\include\glm\gtc\quaternion.hpp
+	"../mat3x3.hpp"
+	"../mat4x4.hpp"
+	"../vec3.hpp"
+	"../vec4.hpp"
+	"../gtc/constants.hpp"
+	"quaternion.inl"
+
+1458410782 c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\include\glm\gtc\quaternion.inl
+	"../trigonometric.hpp"
+	"../geometric.hpp"
+	"../exponential.hpp"
+	<limits>
+
+1424032284 c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\include\glm\gtc\type_ptr.inl
+	<cstring>
+
+1465838710 c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\include\engine\utils\rectangle.h
+
+1464314777 c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\include\engine\shaders\postprocessing.h
+
+1464622783 c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\include\engine\display\atlasentity.h
+
+1464392972 c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\include\engine\display\textureatlas.h
+
+1464395052 c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\include\engine\display\atlasdisplay.h
+
+1464624344 source:c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\src\engine\display\atlasdisplay.cpp
+	"engine/includes/display.h"
+
+1464622802 source:c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\src\engine\display\atlasentity.cpp
+	"engine/includes/display.h"
+
+1464392998 source:c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\src\engine\display\textureatlas.cpp
+	"engine/includes/display.h"
+
+1464996261 source:c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\src\engine\shaders\postprocessing.cpp
+	"engine/includes/shaders.h"
+
+1465838885 source:c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\src\engine\utils\rectangle.cpp
+	"engine/includes/utils.h"
+
+1465838710 e:\documents\new folder\_waitlist\sfml test\sfmltest\include\engine\utils\rectangle.h
+
+1464314777 e:\documents\new folder\_waitlist\sfml test\sfmltest\include\engine\shaders\postprocessing.h
+
+1464622783 e:\documents\new folder\_waitlist\sfml test\sfmltest\include\engine\display\atlasentity.h
+
+1464392972 e:\documents\new folder\_waitlist\sfml test\sfmltest\include\engine\display\textureatlas.h
+
+1464395052 e:\documents\new folder\_waitlist\sfml test\sfmltest\include\engine\display\atlasdisplay.h
+
+1464624344 source:e:\documents\new folder\_waitlist\sfml test\sfmltest\src\engine\display\atlasdisplay.cpp
+	"engine/includes/display.h"
+
+1464622802 source:e:\documents\new folder\_waitlist\sfml test\sfmltest\src\engine\display\atlasentity.cpp
+	"engine/includes/display.h"
+
+1464392998 source:e:\documents\new folder\_waitlist\sfml test\sfmltest\src\engine\display\textureatlas.cpp
+	"engine/includes/display.h"
+
+1464996261 source:e:\documents\new folder\_waitlist\sfml test\sfmltest\src\engine\shaders\postprocessing.cpp
+	"engine/includes/shaders.h"
+
+1465838885 source:e:\documents\new folder\_waitlist\sfml test\sfmltest\src\engine\utils\rectangle.cpp
+	"engine/includes/utils.h"
+
+1465917621 source:e:\documents\new folder\_waitlist\sfml test\sfmltest\src\engine\ai\neuralnetwork.cpp
+	"engine/includes/AI.h"
+
+1465917555 e:\documents\new folder\_waitlist\sfml test\sfmltest\include\engine\ai\neuralnetwork.h
+
+1464885027 e:\documents\new folder\_waitlist\sfml test\sfmltest\include\engine\ai\neuron.h
+
+1464970753 source:e:\documents\new folder\_waitlist\sfml test\sfmltest\src\engine\ai\neuron.cpp
+	"engine/includes/AI.h"
+
+1465917621 source:c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\src\engine\ai\neuralnetwork.cpp
+	"engine/includes/AI.h"
+
+1465917555 c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\include\engine\ai\neuralnetwork.h
+
+1464885027 c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\include\engine\ai\neuron.h
+
+1464970753 source:c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\src\engine\ai\neuron.cpp
+	"engine/includes/AI.h"
+
+1464988136 e:\documents\new folder\_waitlist\sfml test\sfmltest\include\engine\ai\neuralnetworkgene.h
+
+1464988136 c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\include\engine\ai\neuralnetworkgene.h
+
+1464988237 source:c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\src\engine\ai\neuralnetworkgene.cpp
+	"engine/includes/AI.h"
+
+1464394620 c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\include\engine\utils\input.h
+
+1464394643 source:c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\src\engine\utils\input.cpp
+	"engine/includes/utils.h"
+
+1465223305 c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\include\engine\includes\utils.h
+	<SFML/System.hpp>
+	<SFML/Graphics.hpp>
+	<SFML/Window.hpp>
+	<cmath>
+	<vector>
+	<iostream>
+	<map>
+	<cassert>
+	<ctime>
+	<cstdlib>
+	<random>
+	<sstream>
+	<ostream>
+	<cstdint>
+	<chrono>
+	<limits>
+	<stack>
+	"engine/Types.h"
+	"engine/utils/Convert.h"
+	"engine/utils/Vec2D.h"
+	"engine/utils/ObjectPool.h"
+	"engine/utils/Rectangle.h"
+	"engine/utils/Input.h"
+	"engine/utils/Util.h"
+
+1464314805 c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\include\engine\includes\renderer.h
+	"engine/includes/utils.h"
+	<GL/glew.h>
+	<SFML/OpenGL.hpp>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<glm/gtc/type_ptr.hpp>
+	"engine/renderer/GLInterface.h"
+
+1464314802 c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\include\engine\includes\shaders.h
+	"engine/includes/utils.h"
+	"engine/shaders/Common.h"
+	"engine/shaders/PostProcessing.h"
+
+1464314808 c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\include\engine\includes\display.h
+	"engine/includes/utils.h"
+	"engine/includes/shaders.h"
+	"engine/display/Transform.h"
+	"engine/display/TextureAtlas.h"
+	"engine/display/AtlasElement.h"
+	"engine/display/AtlasContainer.h"
+	"engine/display/AtlasEntity.h"
+	"engine/display/AtlasDisplay.h"
+
+1465916871 c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\include\engine\includes\ai.h
+	"engine/includes/utils.h"
+	"engine/AI/Neuron.h"
+	"engine/AI/FloatGene.h"
+	"engine/AI/NeuralNetwork.h"
+
+1464314741 c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\include\engine\includes\all.h
+	"engine/includes/utils.h"
+	"engine/includes/renderer.h"
+	"engine/includes/shaders.h"
+	"engine/includes/display.h"
+	"engine/includes/AI.h"
+	"engine/NebulaGame.h"
+
+1464314741 e:\documents\new folder\_waitlist\sfml test\sfmltest\include\engine\includes\all.h
+	"engine/includes/utils.h"
+	"engine/includes/renderer.h"
+	"engine/includes/shaders.h"
+	"engine/includes/display.h"
+	"engine/includes/AI.h"
+	"engine/NebulaGame.h"
+
+1465223305 e:\documents\new folder\_waitlist\sfml test\sfmltest\include\engine\includes\utils.h
+	<SFML/System.hpp>
+	<SFML/Graphics.hpp>
+	<SFML/Window.hpp>
+	<cmath>
+	<vector>
+	<iostream>
+	<map>
+	<cassert>
+	<ctime>
+	<cstdlib>
+	<random>
+	<sstream>
+	<ostream>
+	<cstdint>
+	<chrono>
+	<limits>
+	<stack>
+	"engine/Types.h"
+	"engine/utils/Convert.h"
+	"engine/utils/Vec2D.h"
+	"engine/utils/ObjectPool.h"
+	"engine/utils/Rectangle.h"
+	"engine/utils/Input.h"
+	"engine/utils/Util.h"
+
+1464394620 e:\documents\new folder\_waitlist\sfml test\sfmltest\include\engine\utils\input.h
+
+1464314805 e:\documents\new folder\_waitlist\sfml test\sfmltest\include\engine\includes\renderer.h
+	"engine/includes/utils.h"
+	<GL/glew.h>
+	<SFML/OpenGL.hpp>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<glm/gtc/type_ptr.hpp>
+	"engine/renderer/GLInterface.h"
+
+1464314802 e:\documents\new folder\_waitlist\sfml test\sfmltest\include\engine\includes\shaders.h
+	"engine/includes/utils.h"
+	"engine/shaders/Common.h"
+	"engine/shaders/PostProcessing.h"
+
+1464314808 e:\documents\new folder\_waitlist\sfml test\sfmltest\include\engine\includes\display.h
+	"engine/includes/utils.h"
+	"engine/includes/shaders.h"
+	"engine/display/Transform.h"
+	"engine/display/TextureAtlas.h"
+	"engine/display/AtlasElement.h"
+	"engine/display/AtlasContainer.h"
+	"engine/display/AtlasEntity.h"
+	"engine/display/AtlasDisplay.h"
+
+1465916871 e:\documents\new folder\_waitlist\sfml test\sfmltest\include\engine\includes\ai.h
+	"engine/includes/utils.h"
+	"engine/AI/Neuron.h"
+	"engine/AI/FloatGene.h"
+	"engine/AI/NeuralNetwork.h"
+
+1464988237 source:e:\documents\new folder\_waitlist\sfml test\sfmltest\src\engine\ai\neuralnetworkgene.cpp
+	"engine/includes/AI.h"
+
+1464394643 source:e:\documents\new folder\_waitlist\sfml test\sfmltest\src\engine\utils\input.cpp
+	"engine/includes/utils.h"
+
+1464398375 c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\include\includes\gameglobal.h
+	"engine/includes/all.h"
+	"includes/objects.h"
+	"Environment.h"
+	"Game.h"
+
+1465660873 c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\include\includes\objects.h
+	"engine/includes/utils.h"
+	"engine/includes/display.h"
+	"engine/includes/AI.h"
+	"objects/Food.h"
+	"objects/Bullet.h"
+	"objects/Organism.h"
+
+1465930405 c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\include\objects\organism.h
+
+1465854300 source:c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\src\objects\organism.cpp
+	"includes/objects.h"
+	"includes/gameGlobal.h"
+
+1465838053 c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\include\environment.h
+
+1465935965 source:c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\src\environment.cpp
+	"includes/gameGlobal.h"
+
+1464398375 e:\documents\new folder\_waitlist\sfml test\sfmltest\include\includes\gameglobal.h
+	"engine/includes/all.h"
+	"includes/objects.h"
+	"Environment.h"
+	"Game.h"
+
+1465660873 e:\documents\new folder\_waitlist\sfml test\sfmltest\include\includes\objects.h
+	"engine/includes/utils.h"
+	"engine/includes/display.h"
+	"engine/includes/AI.h"
+	"objects/Food.h"
+	"objects/Bullet.h"
+	"objects/Organism.h"
+
+1466089704 e:\documents\new folder\_waitlist\sfml test\sfmltest\include\objects\organism.h
+
+1465838053 e:\documents\new folder\_waitlist\sfml test\sfmltest\include\environment.h
+
+1466088942 source:e:\documents\new folder\_waitlist\sfml test\sfmltest\src\environment.cpp
+	"includes/gameGlobal.h"
+
+1466089753 source:e:\documents\new folder\_waitlist\sfml test\sfmltest\src\objects\organism.cpp
+	"includes/objects.h"
+	"includes/gameGlobal.h"
+
+1466011108 e:\documents\new folder\_waitlist\sfml test\sfmltest\include\objects\food.h
+
+1466011231 source:e:\documents\new folder\_waitlist\sfml test\sfmltest\src\objects\food.cpp
+	"includes/objects.h"
+	"includes/gameGlobal.h"
+
+1465225840 c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\include\objects\food.h
+
+1464619794 source:c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\src\objects\food.cpp
+	"includes/objects.h"
+	"includes/gameGlobal.h"
+
+1465569393 c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\include\engine\utils\objectpool.h
+
+1465569393 e:\documents\new folder\_waitlist\sfml test\sfmltest\include\engine\utils\objectpool.h
+
+1465006280 source:e:\documents\new folder\_waitlist\sfml test\sfmltest\src\engine\utils\objectpool.cpp
+	"engine/includes/utils.h"
+
+1465838995 c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\include\objects\bullet.h
+
+1465838995 e:\documents\new folder\_waitlist\sfml test\sfmltest\include\objects\bullet.h
+
+1465855486 source:e:\documents\new folder\_waitlist\sfml test\sfmltest\src\objects\bullet.cpp
+	"includes/objects.h"
+	"includes/gameGlobal.h"
+
+1465855486 source:c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\src\objects\bullet.cpp
+	"includes/objects.h"
+	"includes/gameGlobal.h"
+
+1465918135 e:\documents\new folder\_waitlist\sfml test\sfmltest\include\engine\ai\floatgene.h
+
+1465917517 source:e:\documents\new folder\_waitlist\sfml test\sfmltest\src\engine\ai\floatgene.cpp
+	"engine/includes/AI.h"
+
+1465918135 c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\include\engine\ai\floatgene.h
+
+1465917517 source:c:\documents\_create\_wip\2016 ai\sfml test\sfmltest\src\engine\ai\floatgene.cpp
+	"engine/includes/AI.h"
+
+1464400503 source:d:\data\projects\new\creations\2016 ai\sfml test\sfmltest\main.cpp
+	"includes/gameGlobal.h"
+
+1464398375 d:\data\projects\new\creations\2016 ai\sfml test\sfmltest\include\includes\gameglobal.h
+	"engine/includes/all.h"
+	"includes/objects.h"
+	"Environment.h"
+	"Game.h"
+
+1464314741 d:\data\projects\new\creations\2016 ai\sfml test\sfmltest\include\engine\includes\all.h
+	"engine/includes/utils.h"
+	"engine/includes/renderer.h"
+	"engine/includes/shaders.h"
+	"engine/includes/display.h"
+	"engine/includes/AI.h"
+	"engine/NebulaGame.h"
+
+1465223305 d:\data\projects\new\creations\2016 ai\sfml test\sfmltest\include\engine\includes\utils.h
+	<SFML/System.hpp>
+	<SFML/Graphics.hpp>
+	<SFML/Window.hpp>
+	<cmath>
+	<vector>
+	<iostream>
+	<map>
+	<cassert>
+	<ctime>
+	<cstdlib>
+	<random>
+	<sstream>
+	<ostream>
+	<cstdint>
+	<chrono>
+	<limits>
+	<stack>
+	"engine/Types.h"
+	"engine/utils/Convert.h"
+	"engine/utils/Vec2D.h"
+	"engine/utils/ObjectPool.h"
+	"engine/utils/Rectangle.h"
+	"engine/utils/Input.h"
+	"engine/utils/Util.h"
+
+1464880360 d:\data\projects\new\creations\2016 ai\sfml test\sfmltest\include\engine\types.h
+
+1464901089 d:\data\projects\new\creations\2016 ai\sfml test\sfmltest\include\engine\utils\convert.h
+
+1465855175 d:\data\projects\new\creations\2016 ai\sfml test\sfmltest\include\engine\utils\vec2d.h
+
+1465569393 d:\data\projects\new\creations\2016 ai\sfml test\sfmltest\include\engine\utils\objectpool.h
+
+1465838710 d:\data\projects\new\creations\2016 ai\sfml test\sfmltest\include\engine\utils\rectangle.h
+
+1464394620 d:\data\projects\new\creations\2016 ai\sfml test\sfmltest\include\engine\utils\input.h
+
+1465920366 d:\data\projects\new\creations\2016 ai\sfml test\sfmltest\include\engine\utils\util.h
+
+1464314805 d:\data\projects\new\creations\2016 ai\sfml test\sfmltest\include\engine\includes\renderer.h
+	"engine/includes/utils.h"
+	<GL/glew.h>
+	<SFML/OpenGL.hpp>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<glm/gtc/type_ptr.hpp>
+	"engine/renderer/GLInterface.h"
+
+1464314793 d:\data\projects\new\creations\2016 ai\sfml test\sfmltest\include\engine\renderer\glinterface.h
+
+1464314802 d:\data\projects\new\creations\2016 ai\sfml test\sfmltest\include\engine\includes\shaders.h
+	"engine/includes/utils.h"
+	"engine/shaders/Common.h"
+	"engine/shaders/PostProcessing.h"
+
+1464314789 d:\data\projects\new\creations\2016 ai\sfml test\sfmltest\include\engine\shaders\common.h
+
+1464314777 d:\data\projects\new\creations\2016 ai\sfml test\sfmltest\include\engine\shaders\postprocessing.h
+
+1464314808 d:\data\projects\new\creations\2016 ai\sfml test\sfmltest\include\engine\includes\display.h
+	"engine/includes/utils.h"
+	"engine/includes/shaders.h"
+	"engine/display/Transform.h"
+	"engine/display/TextureAtlas.h"
+	"engine/display/AtlasElement.h"
+	"engine/display/AtlasContainer.h"
+	"engine/display/AtlasEntity.h"
+	"engine/display/AtlasDisplay.h"
+
+1464314893 d:\data\projects\new\creations\2016 ai\sfml test\sfmltest\include\engine\display\transform.h
+
+1464392972 d:\data\projects\new\creations\2016 ai\sfml test\sfmltest\include\engine\display\textureatlas.h
+
+1464881234 d:\data\projects\new\creations\2016 ai\sfml test\sfmltest\include\engine\display\atlaselement.h
+
+1464406959 d:\data\projects\new\creations\2016 ai\sfml test\sfmltest\include\engine\display\atlascontainer.h
+
+1464622783 d:\data\projects\new\creations\2016 ai\sfml test\sfmltest\include\engine\display\atlasentity.h
+
+1464395052 d:\data\projects\new\creations\2016 ai\sfml test\sfmltest\include\engine\display\atlasdisplay.h
+
+1465916871 d:\data\projects\new\creations\2016 ai\sfml test\sfmltest\include\engine\includes\ai.h
+	"engine/includes/utils.h"
+	"engine/AI/Neuron.h"
+	"engine/AI/FloatGene.h"
+	"engine/AI/NeuralNetwork.h"
+
+1464885027 d:\data\projects\new\creations\2016 ai\sfml test\sfmltest\include\engine\ai\neuron.h
+
+1465918135 d:\data\projects\new\creations\2016 ai\sfml test\sfmltest\include\engine\ai\floatgene.h
+
+1465917555 d:\data\projects\new\creations\2016 ai\sfml test\sfmltest\include\engine\ai\neuralnetwork.h
+
+1468996777 d:\data\projects\new\creations\2016 ai\sfml test\sfmltest\include\engine\nebulagame.h
+
+1465660873 d:\data\projects\new\creations\2016 ai\sfml test\sfmltest\include\includes\objects.h
+	"engine/includes/utils.h"
+	"engine/includes/display.h"
+	"engine/includes/AI.h"
+	"objects/Food.h"
+	"objects/Bullet.h"
+	"objects/Organism.h"
+
+1466011108 d:\data\projects\new\creations\2016 ai\sfml test\sfmltest\include\objects\food.h
+
+1465838995 d:\data\projects\new\creations\2016 ai\sfml test\sfmltest\include\objects\bullet.h
+
+1468222075 d:\data\projects\new\creations\2016 ai\sfml test\sfmltest\include\objects\organism.h
+
+1465838053 d:\data\projects\new\creations\2016 ai\sfml test\sfmltest\include\environment.h
+
+1468988879 d:\data\projects\new\creations\2016 ai\sfml test\sfmltest\include\game.h
+
+1465917517 source:d:\data\projects\new\creations\2016 ai\sfml test\sfmltest\src\engine\ai\floatgene.cpp
+	"engine/includes/AI.h"
+
+1465917621 source:d:\data\projects\new\creations\2016 ai\sfml test\sfmltest\src\engine\ai\neuralnetwork.cpp
+	"engine/includes/AI.h"
+
+1464970753 source:d:\data\projects\new\creations\2016 ai\sfml test\sfmltest\src\engine\ai\neuron.cpp
+	"engine/includes/AI.h"
+
+1464406956 source:d:\data\projects\new\creations\2016 ai\sfml test\sfmltest\src\engine\display\atlascontainer.cpp
+	"engine/includes/display.h"
+
+1464624344 source:d:\data\projects\new\creations\2016 ai\sfml test\sfmltest\src\engine\display\atlasdisplay.cpp
+	"engine/includes/display.h"
+
+1464881355 source:d:\data\projects\new\creations\2016 ai\sfml test\sfmltest\src\engine\display\atlaselement.cpp
+	"engine/includes/display.h"
+
+1464622802 source:d:\data\projects\new\creations\2016 ai\sfml test\sfmltest\src\engine\display\atlasentity.cpp
+	"engine/includes/display.h"
+
+1464314204 source:d:\data\projects\new\creations\2016 ai\sfml test\sfmltest\src\engine\display\n3dgeometry.cpp
+	"engine/includes/display.h"
+
+1464392998 source:d:\data\projects\new\creations\2016 ai\sfml test\sfmltest\src\engine\display\textureatlas.cpp
+	"engine/includes/display.h"
+
+1464314153 source:d:\data\projects\new\creations\2016 ai\sfml test\sfmltest\src\engine\display\transform.cpp
+	"engine/includes/display.h"
+
+1468987611 source:d:\data\projects\new\creations\2016 ai\sfml test\sfmltest\src\engine\nebulagame.cpp
+	"engine/includes/all.h"
+
+1464314253 source:d:\data\projects\new\creations\2016 ai\sfml test\sfmltest\src\engine\renderer\glinterface.cpp
+	"engine/includes/renderer.h"
+
+1464314270 source:d:\data\projects\new\creations\2016 ai\sfml test\sfmltest\src\engine\shaders\common.cpp
+	"engine/includes/shaders.h"
+
+1464996261 source:d:\data\projects\new\creations\2016 ai\sfml test\sfmltest\src\engine\shaders\postprocessing.cpp
+	"engine/includes/shaders.h"
+
+1464314421 source:d:\data\projects\new\creations\2016 ai\sfml test\sfmltest\src\engine\types.cpp
+	"engine/includes/utils.h"
+
+1464901082 source:d:\data\projects\new\creations\2016 ai\sfml test\sfmltest\src\engine\utils\convert.cpp
+	"engine/includes/utils.h"
+
+1464394643 source:d:\data\projects\new\creations\2016 ai\sfml test\sfmltest\src\engine\utils\input.cpp
+	"engine/includes/utils.h"
+
+1465838885 source:d:\data\projects\new\creations\2016 ai\sfml test\sfmltest\src\engine\utils\rectangle.cpp
+	"engine/includes/utils.h"
+
+1465920387 source:d:\data\projects\new\creations\2016 ai\sfml test\sfmltest\src\engine\utils\util.cpp
+	"engine/includes/utils.h"
+
+1465855212 source:d:\data\projects\new\creations\2016 ai\sfml test\sfmltest\src\engine\utils\vec2d.cpp
+	"engine/includes/utils.h"
+
+1466098382 source:d:\data\projects\new\creations\2016 ai\sfml test\sfmltest\src\environment.cpp
+	"includes/gameGlobal.h"
+
+1465855486 source:d:\data\projects\new\creations\2016 ai\sfml test\sfmltest\src\objects\bullet.cpp
+	"includes/objects.h"
+	"includes/gameGlobal.h"
+
+1468987407 source:d:\data\projects\new\creations\2016 ai\sfml test\sfmltest\src\objects\food.cpp
+	"includes/objects.h"
+	"includes/gameGlobal.h"
+
+1468991468 source:d:\data\projects\new\creations\2016 ai\sfml test\sfmltest\src\objects\organism.cpp
+	"includes/objects.h"
+	"includes/gameGlobal.h"
+
+1461600318 d:\data\projects\new\creations\_libraries\sfml-2.3.2\include\sfml\system.hpp
+	<SFML/Config.hpp>
+	<SFML/System/Clock.hpp>
+	<SFML/System/Err.hpp>
+	<SFML/System/FileInputStream.hpp>
+	<SFML/System/InputStream.hpp>
+	<SFML/System/Lock.hpp>
+	<SFML/System/MemoryInputStream.hpp>
+	<SFML/System/Mutex.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/System/Sleep.hpp>
+	<SFML/System/String.hpp>
+	<SFML/System/Thread.hpp>
+	<SFML/System/ThreadLocal.hpp>
+	<SFML/System/ThreadLocalPtr.hpp>
+	<SFML/System/Time.hpp>
+	<SFML/System/Utf.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/Vector3.hpp>
+
+1461600317 d:\data\projects\new\creations\_libraries\sfml-2.3.2\include\sfml\config.hpp
+	"TargetConditionals.h"
+
+1461600338 d:\data\projects\new\creations\_libraries\sfml-2.3.2\include\sfml\system\clock.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/Time.hpp>
+
+1461600338 d:\data\projects\new\creations\_libraries\sfml-2.3.2\include\sfml\system\export.hpp
+	<SFML/Config.hpp>
+
+1461600341 d:\data\projects\new\creations\_libraries\sfml-2.3.2\include\sfml\system\time.hpp
+	<SFML/System/Export.hpp>
+
+1461600338 d:\data\projects\new\creations\_libraries\sfml-2.3.2\include\sfml\system\err.hpp
+	<SFML/System/Export.hpp>
+	<ostream>
+
+1461600338 d:\data\projects\new\creations\_libraries\sfml-2.3.2\include\sfml\system\fileinputstream.hpp
+	<SFML/Config.hpp>
+	<SFML/System/Export.hpp>
+	<SFML/System/InputStream.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<cstdio>
+	<string>
+
+1461600338 d:\data\projects\new\creations\_libraries\sfml-2.3.2\include\sfml\system\inputstream.hpp
+	<SFML/Config.hpp>
+	<SFML/System/Export.hpp>
+
+1461600339 d:\data\projects\new\creations\_libraries\sfml-2.3.2\include\sfml\system\noncopyable.hpp
+	<SFML/System/Export.hpp>
+
+1461600338 d:\data\projects\new\creations\_libraries\sfml-2.3.2\include\sfml\system\lock.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1461600339 d:\data\projects\new\creations\_libraries\sfml-2.3.2\include\sfml\system\memoryinputstream.hpp
+	<SFML/Config.hpp>
+	<SFML/System/InputStream.hpp>
+	<SFML/System/Export.hpp>
+	<cstdlib>
+
+1461600339 d:\data\projects\new\creations\_libraries\sfml-2.3.2\include\sfml\system\mutex.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1461600340 d:\data\projects\new\creations\_libraries\sfml-2.3.2\include\sfml\system\sleep.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/Time.hpp>
+
+1461600340 d:\data\projects\new\creations\_libraries\sfml-2.3.2\include\sfml\system\string.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/Utf.hpp>
+	<locale>
+	<string>
+	<SFML/System/String.inl>
+
+1461600341 d:\data\projects\new\creations\_libraries\sfml-2.3.2\include\sfml\system\utf.hpp
+	<SFML/Config.hpp>
+	<algorithm>
+	<locale>
+	<string>
+	<cstdlib>
+	<SFML/System/Utf.inl>
+
+1461600341 d:\data\projects\new\creations\_libraries\sfml-2.3.2\include\sfml\system\utf.inl
+
+1461600340 d:\data\projects\new\creations\_libraries\sfml-2.3.2\include\sfml\system\string.inl
+
+1461600340 d:\data\projects\new\creations\_libraries\sfml-2.3.2\include\sfml\system\thread.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<cstdlib>
+	<SFML/System/Thread.inl>
+
+1461600340 d:\data\projects\new\creations\_libraries\sfml-2.3.2\include\sfml\system\thread.inl
+
+1461600340 d:\data\projects\new\creations\_libraries\sfml-2.3.2\include\sfml\system\threadlocal.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<cstdlib>
+
+1461600340 d:\data\projects\new\creations\_libraries\sfml-2.3.2\include\sfml\system\threadlocalptr.hpp
+	<SFML/System/ThreadLocal.hpp>
+	<SFML/System/ThreadLocalPtr.inl>
+
+1461600340 d:\data\projects\new\creations\_libraries\sfml-2.3.2\include\sfml\system\threadlocalptr.inl
+
+1461600341 d:\data\projects\new\creations\_libraries\sfml-2.3.2\include\sfml\system\vector2.hpp
+	<SFML/System/Vector2.inl>
+
+1461600342 d:\data\projects\new\creations\_libraries\sfml-2.3.2\include\sfml\system\vector2.inl
+
+1461600342 d:\data\projects\new\creations\_libraries\sfml-2.3.2\include\sfml\system\vector3.hpp
+	<SFML/System/Vector3.inl>
+
+1461600342 d:\data\projects\new\creations\_libraries\sfml-2.3.2\include\sfml\system\vector3.inl
+
+1461600317 d:\data\projects\new\creations\_libraries\sfml-2.3.2\include\sfml\graphics.hpp
+	<SFML/Window.hpp>
+	<SFML/Graphics/BlendMode.hpp>
+	<SFML/Graphics/CircleShape.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Graphics/ConvexShape.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Font.hpp>
+	<SFML/Graphics/Glyph.hpp>
+	<SFML/Graphics/Image.hpp>
+	<SFML/Graphics/PrimitiveType.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/RectangleShape.hpp>
+	<SFML/Graphics/RenderStates.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+	<SFML/Graphics/RenderTexture.hpp>
+	<SFML/Graphics/RenderWindow.hpp>
+	<SFML/Graphics/Shader.hpp>
+	<SFML/Graphics/Shape.hpp>
+	<SFML/Graphics/Sprite.hpp>
+	<SFML/Graphics/Text.hpp>
+	<SFML/Graphics/Texture.hpp>
+	<SFML/Graphics/Transform.hpp>
+	<SFML/Graphics/Transformable.hpp>
+	<SFML/Graphics/Vertex.hpp>
+	<SFML/Graphics/VertexArray.hpp>
+	<SFML/Graphics/View.hpp>
+
+1461600318 d:\data\projects\new\creations\_libraries\sfml-2.3.2\include\sfml\window.hpp
+	<SFML/System.hpp>
+	<SFML/Window/Context.hpp>
+	<SFML/Window/ContextSettings.hpp>
+	<SFML/Window/Event.hpp>
+	<SFML/Window/Joystick.hpp>
+	<SFML/Window/Keyboard.hpp>
+	<SFML/Window/Mouse.hpp>
+	<SFML/Window/Sensor.hpp>
+	<SFML/Window/Touch.hpp>
+	<SFML/Window/VideoMode.hpp>
+	<SFML/Window/Window.hpp>
+	<SFML/Window/WindowHandle.hpp>
+	<SFML/Window/WindowStyle.hpp>
+
+1461600342 d:\data\projects\new\creations\_libraries\sfml-2.3.2\include\sfml\window\context.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/Window/GlResource.hpp>
+	<SFML/Window/ContextSettings.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1461600342 d:\data\projects\new\creations\_libraries\sfml-2.3.2\include\sfml\window\export.hpp
+	<SFML/Config.hpp>
+
+1461600342 d:\data\projects\new\creations\_libraries\sfml-2.3.2\include\sfml\window\glresource.hpp
+	<SFML/Window/Export.hpp>
+
+1461600342 d:\data\projects\new\creations\_libraries\sfml-2.3.2\include\sfml\window\contextsettings.hpp
+
+1461600342 d:\data\projects\new\creations\_libraries\sfml-2.3.2\include\sfml\window\event.hpp
+	<SFML/Config.hpp>
+	<SFML/Window/Joystick.hpp>
+	<SFML/Window/Keyboard.hpp>
+	<SFML/Window/Mouse.hpp>
+	<SFML/Window/Sensor.hpp>
+
+1461600342 d:\data\projects\new\creations\_libraries\sfml-2.3.2\include\sfml\window\joystick.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/String.hpp>
+
+1461600342 d:\data\projects\new\creations\_libraries\sfml-2.3.2\include\sfml\window\keyboard.hpp
+	<SFML/Window/Export.hpp>
+
+1461600343 d:\data\projects\new\creations\_libraries\sfml-2.3.2\include\sfml\window\mouse.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/Vector2.hpp>
+
+1461600343 d:\data\projects\new\creations\_libraries\sfml-2.3.2\include\sfml\window\sensor.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/Vector3.hpp>
+	<SFML/System/Time.hpp>
+
+1461600344 d:\data\projects\new\creations\_libraries\sfml-2.3.2\include\sfml\window\touch.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/Vector2.hpp>
+
+1461600344 d:\data\projects\new\creations\_libraries\sfml-2.3.2\include\sfml\window\videomode.hpp
+	<SFML/Window/Export.hpp>
+	<vector>
+
+1461600345 d:\data\projects\new\creations\_libraries\sfml-2.3.2\include\sfml\window\window.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/Window/ContextSettings.hpp>
+	<SFML/Window/VideoMode.hpp>
+	<SFML/Window/WindowHandle.hpp>
+	<SFML/Window/WindowStyle.hpp>
+	<SFML/Window/GlResource.hpp>
+	<SFML/System/Clock.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/System/String.hpp>
+
+1461600345 d:\data\projects\new\creations\_libraries\sfml-2.3.2\include\sfml\window\windowhandle.hpp
+	<SFML/Config.hpp>
+
+1461600345 d:\data\projects\new\creations\_libraries\sfml-2.3.2\include\sfml\window\windowstyle.hpp
+
+1461600323 d:\data\projects\new\creations\_libraries\sfml-2.3.2\include\sfml\graphics\blendmode.hpp
+	<SFML/Graphics/Export.hpp>
+
+1461600324 d:\data\projects\new\creations\_libraries\sfml-2.3.2\include\sfml\graphics\export.hpp
+	<SFML/Config.hpp>
+
+1461600324 d:\data\projects\new\creations\_libraries\sfml-2.3.2\include\sfml\graphics\circleshape.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Shape.hpp>
+
+1461600332 d:\data\projects\new\creations\_libraries\sfml-2.3.2\include\sfml\graphics\shape.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Transformable.hpp>
+	<SFML/Graphics/VertexArray.hpp>
+	<SFML/System/Vector2.hpp>
+
+1461600324 d:\data\projects\new\creations\_libraries\sfml-2.3.2\include\sfml\graphics\drawable.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/RenderStates.hpp>
+
+1461600326 d:\data\projects\new\creations\_libraries\sfml-2.3.2\include\sfml\graphics\renderstates.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/BlendMode.hpp>
+	<SFML/Graphics/Transform.hpp>
+
+1461600334 d:\data\projects\new\creations\_libraries\sfml-2.3.2\include\sfml\graphics\transform.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/System/Vector2.hpp>
+
+1461600325 d:\data\projects\new\creations\_libraries\sfml-2.3.2\include\sfml\graphics\rect.hpp
+	<SFML/System/Vector2.hpp>
+	<algorithm>
+	<SFML/Graphics/Rect.inl>
+
+1461600326 d:\data\projects\new\creations\_libraries\sfml-2.3.2\include\sfml\graphics\rect.inl
+
+1461600334 d:\data\projects\new\creations\_libraries\sfml-2.3.2\include\sfml\graphics\transformable.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Transform.hpp>
+
+1461600335 d:\data\projects\new\creations\_libraries\sfml-2.3.2\include\sfml\graphics\vertexarray.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Vertex.hpp>
+	<SFML/Graphics/PrimitiveType.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<vector>
+
+1461600334 d:\data\projects\new\creations\_libraries\sfml-2.3.2\include\sfml\graphics\vertex.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/System/Vector2.hpp>
+
+1461600324 d:\data\projects\new\creations\_libraries\sfml-2.3.2\include\sfml\graphics\color.hpp
+	<SFML/Graphics/Export.hpp>
+
+1461600325 d:\data\projects\new\creations\_libraries\sfml-2.3.2\include\sfml\graphics\primitivetype.hpp
+
+1461600324 d:\data\projects\new\creations\_libraries\sfml-2.3.2\include\sfml\graphics\convexshape.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Shape.hpp>
+	<vector>
+
+1461600324 d:\data\projects\new\creations\_libraries\sfml-2.3.2\include\sfml\graphics\font.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Glyph.hpp>
+	<SFML/Graphics/Texture.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/String.hpp>
+	<map>
+	<string>
+	<vector>
+
+1461600324 d:\data\projects\new\creations\_libraries\sfml-2.3.2\include\sfml\graphics\glyph.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Rect.hpp>
+
+1461600333 d:\data\projects\new\creations\_libraries\sfml-2.3.2\include\sfml\graphics\texture.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Image.hpp>
+	<SFML/Window/GlResource.hpp>
+
+1461600325 d:\data\projects\new\creations\_libraries\sfml-2.3.2\include\sfml\graphics\image.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<string>
+	<vector>
+
+1461600326 d:\data\projects\new\creations\_libraries\sfml-2.3.2\include\sfml\graphics\rectangleshape.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Shape.hpp>
+
+1461600326 d:\data\projects\new\creations\_libraries\sfml-2.3.2\include\sfml\graphics\rendertarget.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/View.hpp>
+	<SFML/Graphics/Transform.hpp>
+	<SFML/Graphics/BlendMode.hpp>
+	<SFML/Graphics/RenderStates.hpp>
+	<SFML/Graphics/PrimitiveType.hpp>
+	<SFML/Graphics/Vertex.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1461600335 d:\data\projects\new\creations\_libraries\sfml-2.3.2\include\sfml\graphics\view.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/Transform.hpp>
+	<SFML/System/Vector2.hpp>
+
+1461600327 d:\data\projects\new\creations\_libraries\sfml-2.3.2\include\sfml\graphics\rendertexture.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Texture.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+
+1461600329 d:\data\projects\new\creations\_libraries\sfml-2.3.2\include\sfml\graphics\renderwindow.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+	<SFML/Graphics/Image.hpp>
+	<SFML/Window/Window.hpp>
+	<string>
+
+1461600331 d:\data\projects\new\creations\_libraries\sfml-2.3.2\include\sfml\graphics\shader.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Transform.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Window/GlResource.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/Vector3.hpp>
+	<map>
+	<string>
+
+1461600332 d:\data\projects\new\creations\_libraries\sfml-2.3.2\include\sfml\graphics\sprite.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Transformable.hpp>
+	<SFML/Graphics/Vertex.hpp>
+	<SFML/Graphics/Rect.hpp>
+
+1461600332 d:\data\projects\new\creations\_libraries\sfml-2.3.2\include\sfml\graphics\text.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Transformable.hpp>
+	<SFML/Graphics/Font.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/VertexArray.hpp>
+	<SFML/System/String.hpp>
+	<string>
+	<vector>
+
+1461684529 d:\data\projects\new\creations\_libraries\glew-1.13.0\include\gl\glew.h
+	<stddef.h>
+	<inttypes.h>
+	<stdint.h>
+	<inttypes.h>
+	<Availability.h>
+	<OpenGL/glu.h>
+	<GL/glu.h>
+
+1461600318 d:\data\projects\new\creations\_libraries\sfml-2.3.2\include\sfml\opengl.hpp
+	<SFML/Config.hpp>
+	<windows.h>
+	<GL/gl.h>
+	<GLES/gl.h>
+	<GLES/glext.h>
+	<GL/gl.h>
+	<OpenGL/gl.h>
+	<OpenGLES/ES1/gl.h>
+	<OpenGLES/ES1/glext.h>
+	<GLES/gl.h>
+	<GLES/glext.h>
+
+1424014283 d:\data\projects\new\creations\_libraries\glm\glm\glm.hpp
+	"detail/_fixes.hpp"
+	<cmath>
+	<climits>
+	<cfloat>
+	<limits>
+	<cassert>
+	"fwd.hpp"
+	"vec2.hpp"
+	"vec3.hpp"
+	"vec4.hpp"
+	"mat2x2.hpp"
+	"mat2x3.hpp"
+	"mat2x4.hpp"
+	"mat3x2.hpp"
+	"mat3x3.hpp"
+	"mat3x4.hpp"
+	"mat4x2.hpp"
+	"mat4x3.hpp"
+	"mat4x4.hpp"
+	"trigonometric.hpp"
+	"exponential.hpp"
+	"common.hpp"
+	"packing.hpp"
+	"geometric.hpp"
+	"matrix.hpp"
+	"vector_relational.hpp"
+	"integer.hpp"
+
+1424014283 d:\data\projects\new\creations\_libraries\glm\glm\detail\_fixes.hpp
+	<cmath>
+
+1438464936 d:\data\projects\new\creations\_libraries\glm\glm\fwd.hpp
+	"detail/type_int.hpp"
+	"detail/type_float.hpp"
+	"detail/type_vec.hpp"
+	"detail/type_mat.hpp"
+
+1424014283 d:\data\projects\new\creations\_libraries\glm\glm\detail\type_int.hpp
+	"setup.hpp"
+	<type_traits>
+	<cstdint>
+
+1458392818 d:\data\projects\new\creations\_libraries\glm\glm\detail\setup.hpp
+	<cassert>
+	<cstddef>
+	<cuda.h>
+	<intrin.h>
+	<immintrin.h>
+	<immintrin.h>
+	<smmintrin.h>
+	<pmmintrin.h>
+	<emmintrin.h>
+	<__config>
+
+1424014283 d:\data\projects\new\creations\_libraries\glm\glm\detail\type_float.hpp
+	"setup.hpp"
+
+1438465103 d:\data\projects\new\creations\_libraries\glm\glm\detail\type_vec.hpp
+	"precision.hpp"
+	"type_int.hpp"
+
+1457813285 d:\data\projects\new\creations\_libraries\glm\glm\detail\precision.hpp
+
+1424014283 d:\data\projects\new\creations\_libraries\glm\glm\detail\type_mat.hpp
+	"precision.hpp"
+
+1424014283 d:\data\projects\new\creations\_libraries\glm\glm\vec2.hpp
+	"detail/type_vec2.hpp"
+
+1458392781 d:\data\projects\new\creations\_libraries\glm\glm\detail\type_vec2.hpp
+	"type_vec.hpp"
+	"_swizzle.hpp"
+	"_swizzle_func.hpp"
+	<cstddef>
+	"type_vec2.inl"
+
+1424014283 d:\data\projects\new\creations\_libraries\glm\glm\detail\_swizzle.hpp
+
+1424014283 d:\data\projects\new\creations\_libraries\glm\glm\detail\_swizzle_func.hpp
+
+1458392781 d:\data\projects\new\creations\_libraries\glm\glm\detail\type_vec2.inl
+
+1424014283 d:\data\projects\new\creations\_libraries\glm\glm\vec3.hpp
+	"detail/type_vec3.hpp"
+
+1458392781 d:\data\projects\new\creations\_libraries\glm\glm\detail\type_vec3.hpp
+	"type_vec.hpp"
+	"_swizzle.hpp"
+	"_swizzle_func.hpp"
+	<cstddef>
+	"type_vec3.inl"
+
+1458392781 d:\data\projects\new\creations\_libraries\glm\glm\detail\type_vec3.inl
+
+1424014283 d:\data\projects\new\creations\_libraries\glm\glm\vec4.hpp
+	"detail/type_vec4.hpp"
+
+1458392818 d:\data\projects\new\creations\_libraries\glm\glm\detail\type_vec4.hpp
+	"setup.hpp"
+	"type_vec.hpp"
+	"_swizzle.hpp"
+	"_swizzle_func.hpp"
+	<cstddef>
+	"type_vec4.inl"
+
+1458392818 d:\data\projects\new\creations\_libraries\glm\glm\detail\type_vec4.inl
+	"type_vec4_sse2.inl"
+	"type_vec4_avx.inl"
+	"type_vec4_avx2.inl"
+
+1441038892 d:\data\projects\new\creations\_libraries\glm\glm\detail\type_vec4_sse2.inl
+
+1424014283 d:\data\projects\new\creations\_libraries\glm\glm\detail\type_vec4_avx.inl
+
+1424014283 d:\data\projects\new\creations\_libraries\glm\glm\detail\type_vec4_avx2.inl
+
+1424014283 d:\data\projects\new\creations\_libraries\glm\glm\mat2x2.hpp
+	"detail/type_mat2x2.hpp"
+
+1458392781 d:\data\projects\new\creations\_libraries\glm\glm\detail\type_mat2x2.hpp
+	"../fwd.hpp"
+	"type_vec2.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat2x2.inl"
+
+1457869625 d:\data\projects\new\creations\_libraries\glm\glm\detail\type_mat2x2.inl
+
+1424014283 d:\data\projects\new\creations\_libraries\glm\glm\mat2x3.hpp
+	"detail/type_mat2x3.hpp"
+
+1458392781 d:\data\projects\new\creations\_libraries\glm\glm\detail\type_mat2x3.hpp
+	"../fwd.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat2x3.inl"
+
+1457869625 d:\data\projects\new\creations\_libraries\glm\glm\detail\type_mat2x3.inl
+
+1424014283 d:\data\projects\new\creations\_libraries\glm\glm\mat2x4.hpp
+	"detail/type_mat2x4.hpp"
+
+1458392818 d:\data\projects\new\creations\_libraries\glm\glm\detail\type_mat2x4.hpp
+	"../fwd.hpp"
+	"type_vec2.hpp"
+	"type_vec4.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat2x4.inl"
+
+1458392818 d:\data\projects\new\creations\_libraries\glm\glm\detail\type_mat2x4.inl
+
+1424014283 d:\data\projects\new\creations\_libraries\glm\glm\mat3x2.hpp
+	"detail/type_mat3x2.hpp"
+
+1458392781 d:\data\projects\new\creations\_libraries\glm\glm\detail\type_mat3x2.hpp
+	"../fwd.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat3x2.inl"
+
+1457869432 d:\data\projects\new\creations\_libraries\glm\glm\detail\type_mat3x2.inl
+
+1424014283 d:\data\projects\new\creations\_libraries\glm\glm\mat3x3.hpp
+	"detail/type_mat3x3.hpp"
+
+1458392781 d:\data\projects\new\creations\_libraries\glm\glm\detail\type_mat3x3.hpp
+	"../fwd.hpp"
+	"type_vec3.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat3x3.inl"
+
+1457869432 d:\data\projects\new\creations\_libraries\glm\glm\detail\type_mat3x3.inl
+
+1424014283 d:\data\projects\new\creations\_libraries\glm\glm\mat3x4.hpp
+	"detail/type_mat3x4.hpp"
+
+1458392781 d:\data\projects\new\creations\_libraries\glm\glm\detail\type_mat3x4.hpp
+	"../fwd.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat3x4.inl"
+
+1457869431 d:\data\projects\new\creations\_libraries\glm\glm\detail\type_mat3x4.inl
+
+1424014283 d:\data\projects\new\creations\_libraries\glm\glm\mat4x2.hpp
+	"detail/type_mat4x2.hpp"
+
+1458392781 d:\data\projects\new\creations\_libraries\glm\glm\detail\type_mat4x2.hpp
+	"../fwd.hpp"
+	"type_vec2.hpp"
+	"type_vec4.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat4x2.inl"
+
+1458392781 d:\data\projects\new\creations\_libraries\glm\glm\detail\type_mat4x2.inl
+
+1424014283 d:\data\projects\new\creations\_libraries\glm\glm\mat4x3.hpp
+	"detail/type_mat4x3.hpp"
+
+1458392781 d:\data\projects\new\creations\_libraries\glm\glm\detail\type_mat4x3.hpp
+	"../fwd.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat4x3.inl"
+
+1457869431 d:\data\projects\new\creations\_libraries\glm\glm\detail\type_mat4x3.inl
+
+1424014283 d:\data\projects\new\creations\_libraries\glm\glm\mat4x4.hpp
+	"detail/type_mat4x4.hpp"
+
+1458392818 d:\data\projects\new\creations\_libraries\glm\glm\detail\type_mat4x4.hpp
+	"../fwd.hpp"
+	"type_vec4.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat4x4.inl"
+
+1457869443 d:\data\projects\new\creations\_libraries\glm\glm\detail\type_mat4x4.inl
+
+1424014283 d:\data\projects\new\creations\_libraries\glm\glm\trigonometric.hpp
+	"detail/func_trigonometric.hpp"
+
+1441051837 d:\data\projects\new\creations\_libraries\glm\glm\detail\func_trigonometric.hpp
+	"setup.hpp"
+	"precision.hpp"
+	"func_trigonometric.inl"
+
+1458392781 d:\data\projects\new\creations\_libraries\glm\glm\detail\func_trigonometric.inl
+	"_vectorize.hpp"
+	<cmath>
+	<limits>
+
+1424014283 d:\data\projects\new\creations\_libraries\glm\glm\detail\_vectorize.hpp
+	"type_vec1.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+
+1458392781 d:\data\projects\new\creations\_libraries\glm\glm\detail\type_vec1.hpp
+	"../fwd.hpp"
+	"type_vec.hpp"
+	"_swizzle.hpp"
+	"_swizzle_func.hpp"
+	<cstddef>
+	"type_vec1.inl"
+
+1458392781 d:\data\projects\new\creations\_libraries\glm\glm\detail\type_vec1.inl
+
+1424014283 d:\data\projects\new\creations\_libraries\glm\glm\exponential.hpp
+	"detail/func_exponential.hpp"
+
+1424014283 d:\data\projects\new\creations\_libraries\glm\glm\detail\func_exponential.hpp
+	"type_vec1.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	<cmath>
+	"func_exponential.inl"
+
+1424014283 d:\data\projects\new\creations\_libraries\glm\glm\detail\func_exponential.inl
+	"func_vector_relational.hpp"
+	"_vectorize.hpp"
+	<limits>
+	<cmath>
+	<cassert>
+
+1424014283 d:\data\projects\new\creations\_libraries\glm\glm\detail\func_vector_relational.hpp
+	"precision.hpp"
+	"setup.hpp"
+	"func_vector_relational.inl"
+
+1424014283 d:\data\projects\new\creations\_libraries\glm\glm\detail\func_vector_relational.inl
+	<limits>
+
+1424014283 d:\data\projects\new\creations\_libraries\glm\glm\common.hpp
+	"detail/func_common.hpp"
+
+1424014283 d:\data\projects\new\creations\_libraries\glm\glm\detail\func_common.hpp
+	"setup.hpp"
+	"precision.hpp"
+	"type_int.hpp"
+	"_fixes.hpp"
+	"func_common.inl"
+
+1451841634 d:\data\projects\new\creations\_libraries\glm\glm\detail\func_common.inl
+	"func_vector_relational.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	"_vectorize.hpp"
+	<limits>
+
+1424014283 d:\data\projects\new\creations\_libraries\glm\glm\packing.hpp
+	"detail/func_packing.hpp"
+
+1424014283 d:\data\projects\new\creations\_libraries\glm\glm\detail\func_packing.hpp
+	"type_vec2.hpp"
+	"type_vec4.hpp"
+	"func_packing.inl"
+
+1437262117 d:\data\projects\new\creations\_libraries\glm\glm\detail\func_packing.inl
+	"func_common.hpp"
+	"type_half.hpp"
+	"../fwd.hpp"
+
+1424014283 d:\data\projects\new\creations\_libraries\glm\glm\detail\type_half.hpp
+	"setup.hpp"
+	"type_half.inl"
+
+1451842014 d:\data\projects\new\creations\_libraries\glm\glm\detail\type_half.inl
+
+1424014283 d:\data\projects\new\creations\_libraries\glm\glm\geometric.hpp
+	"detail/func_geometric.hpp"
+
+1424014283 d:\data\projects\new\creations\_libraries\glm\glm\detail\func_geometric.hpp
+	"type_vec3.hpp"
+	"func_geometric.inl"
+
+1458392781 d:\data\projects\new\creations\_libraries\glm\glm\detail\func_geometric.inl
+	"func_exponential.hpp"
+	"func_common.hpp"
+	"type_vec2.hpp"
+	"type_vec4.hpp"
+	"type_float.hpp"
+
+1424014283 d:\data\projects\new\creations\_libraries\glm\glm\matrix.hpp
+	"detail/func_matrix.hpp"
+
+1457218279 d:\data\projects\new\creations\_libraries\glm\glm\detail\func_matrix.hpp
+	"../detail/precision.hpp"
+	"../detail/setup.hpp"
+	"../detail/type_mat.hpp"
+	"../vec2.hpp"
+	"../vec3.hpp"
+	"../vec4.hpp"
+	"../mat2x2.hpp"
+	"../mat2x3.hpp"
+	"../mat2x4.hpp"
+	"../mat3x2.hpp"
+	"../mat3x3.hpp"
+	"../mat3x4.hpp"
+	"../mat4x2.hpp"
+	"../mat4x3.hpp"
+	"../mat4x4.hpp"
+	"func_matrix.inl"
+
+1424014283 d:\data\projects\new\creations\_libraries\glm\glm\detail\func_matrix.inl
+	"../geometric.hpp"
+	<limits>
+
+1424014283 d:\data\projects\new\creations\_libraries\glm\glm\vector_relational.hpp
+	"detail/func_vector_relational.hpp"
+
+1424014283 d:\data\projects\new\creations\_libraries\glm\glm\integer.hpp
+	"detail/func_integer.hpp"
+
+1424014283 d:\data\projects\new\creations\_libraries\glm\glm\detail\func_integer.hpp
+	"setup.hpp"
+	"precision.hpp"
+	"func_common.hpp"
+	"func_vector_relational.hpp"
+	"func_integer.inl"
+
+1426535103 d:\data\projects\new\creations\_libraries\glm\glm\detail\func_integer.inl
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	"type_int.hpp"
+	"_vectorize.hpp"
+	<intrin.h>
+	<limits>
+
+1458392781 d:\data\projects\new\creations\_libraries\glm\glm\gtc\matrix_transform.hpp
+	"../mat4x4.hpp"
+	"../vec2.hpp"
+	"../vec3.hpp"
+	"../vec4.hpp"
+	"../gtc/constants.hpp"
+	"matrix_transform.inl"
+
+1441051454 d:\data\projects\new\creations\_libraries\glm\glm\gtc\constants.hpp
+	"../detail/setup.hpp"
+	"constants.inl"
+
+1441052694 d:\data\projects\new\creations\_libraries\glm\glm\gtc\constants.inl
+	<limits>
+
+1458392781 d:\data\projects\new\creations\_libraries\glm\glm\gtc\matrix_transform.inl
+	"../geometric.hpp"
+	"../trigonometric.hpp"
+	"../matrix.hpp"
+
+1424014283 d:\data\projects\new\creations\_libraries\glm\glm\gtc\type_ptr.hpp
+	"../gtc/quaternion.hpp"
+	"../vec2.hpp"
+	"../vec3.hpp"
+	"../vec4.hpp"
+	"../mat2x2.hpp"
+	"../mat2x3.hpp"
+	"../mat2x4.hpp"
+	"../mat3x2.hpp"
+	"../mat3x3.hpp"
+	"../mat3x4.hpp"
+	"../mat4x2.hpp"
+	"../mat4x3.hpp"
+	"../mat4x4.hpp"
+	<cstring>
+	"type_ptr.inl"
+
+1458392818 d:\data\projects\new\creations\_libraries\glm\glm\gtc\quaternion.hpp
+	"../mat3x3.hpp"
+	"../mat4x4.hpp"
+	"../vec3.hpp"
+	"../vec4.hpp"
+	"../gtc/constants.hpp"
+	"quaternion.inl"
+
+1458392781 d:\data\projects\new\creations\_libraries\glm\glm\gtc\quaternion.inl
+	"../trigonometric.hpp"
+	"../geometric.hpp"
+	"../exponential.hpp"
+	<limits>
+
+1424014283 d:\data\projects\new\creations\_libraries\glm\glm\gtc\type_ptr.inl
+	<cstring>
+
+1468990684 source:d:\data\projects\new\creations\2016 ai\sfml test\sfmltest\src\game.cpp
+	"includes/gameGlobal.h"
+
